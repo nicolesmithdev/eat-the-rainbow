@@ -1,0 +1,43 @@
+.recipe {
+    background-color: $white;
+    border: 5px solid $medium-gray;
+    line-height: 35px;
+    padding: $padding;
+
+    &:not(:last-child) {
+        margin-bottom: $padding;
+    }
+
+    > * {
+        margin-bottom: 0;
+    }
+
+    .containers {
+        > span {
+            display: inline-block;
+            font-size: 14px;
+
+            &:not(:last-child) {
+                margin-right: 0.5em;
+            }
+
+            > span {
+                border-radius: 3px;
+                display: inline-block;
+                height: 20px;
+                vertical-align: middle;
+                width: 20px;
+
+                @each $container, $map in $containers {
+                    &.#{$container} {
+                        background-color: map-get($map, color);
+                    }
+                }
+
+                &.free {
+                    display: none;
+                }
+            }
+        }
+    }
+}

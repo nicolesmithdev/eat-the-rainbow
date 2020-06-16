@@ -1,0 +1,19 @@
+@import 
+    'sass/abstracts/variables',     // Sass Variables
+    'sass/abstracts/mixins';        // Sass Mixins
+
+@import
+    'sass/base/reset',              // Reset / Normalize
+    'sass/base/base',
+    'sass/base/typography';         // Typography
+
+@import
+    'sass/components/Pagination',   // Pagination
+    'sass/components/RecipeCard',   // Recipe Card
+    'sass/components/SearchBar';    // Search Bar
+
+@import
+    'sass/layout/header',           // Header
+    'sass/layout/footer',           // Footer
+    'sass/layout/sidebar',          // Sidebar
+    'sass/layout/forms';            // Forms

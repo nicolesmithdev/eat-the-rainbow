@@ -1,0 +1,23 @@
+input,
+select,
+textarea {
+    background-color: $white;
+    border: 1px solid #EAEAEA;
+    color: $default-color;
+    font-size: $default-size;
+    padding: $padding/2;
+    width: 100%;
+}
+
+input[type="text"],
+textarea {
+    -webkit-user-select: text;
+    user-select: text;
+}
+
+input[type="checkbox"],
+input[type="radio"] {
+    display: inline-block;
+    padding: 0;
+    width: auto;
+}

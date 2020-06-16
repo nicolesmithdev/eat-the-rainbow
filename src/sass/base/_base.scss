@@ -1,0 +1,28 @@
+p {
+    margin: $padding 0;
+}
+
+.content {
+    clear: both;
+
+    @include respond-to('large') {
+        clear: none;
+        float: right;
+        width: calc(70% - 30px);
+    }
+}
+
+.red {
+    color: $red;
+}
+
+.wrap {
+    margin: 0 auto;
+    max-width: 90%;
+    width: 1080px;
+}
+
+#app {
+    overflow: visible;
+    padding: 0 0 $padding;
+}

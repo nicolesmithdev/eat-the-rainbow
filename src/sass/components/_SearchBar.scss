@@ -1,0 +1,24 @@
+#search-bar {
+    align-items: center;
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: $padding;
+
+    .icon.filter {
+        @media screen and (max-width:992px) {
+            background-image: url("/images/filter.svg");
+            background-repeat: no-repeat;
+            content: "";
+            cursor: pointer;
+            display: inline-block;
+            height: 30px;
+            margin-right: $padding/2;
+            width: 30px;
+        }
+    }
+
+    form {
+        display: inline-block;
+        flex-grow: 1;
+    }
+}

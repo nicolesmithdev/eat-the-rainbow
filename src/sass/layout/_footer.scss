@@ -1,0 +1,13 @@
+#footer {
+    clear: both;
+    font-size: 14px;
+    text-align: center;
+
+    .disclaimer {
+        font-style: italic;
+    }
+
+    > .wrap {
+        width: 768px;
+    }
+}

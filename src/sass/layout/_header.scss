@@ -1,0 +1,22 @@
+#header {
+    padding: $padding 0;
+    text-align: center;
+
+    h1 {
+        color: $bright-green;
+        font: 500 #{42px}/#{45px} Oswald, impact, serif;
+        margin: 0;
+        text-transform: uppercase;
+
+        a {
+            color: $bright-green;
+            text-decoration: none;
+
+            sup {
+                color: $gray;
+                font-size: 14px;
+                text-transform: uppercase;
+            }
+        }
+    }
+}

@@ -1,0 +1,24 @@
+body {
+    background-color: $light-gray;
+    color: $default-color;
+    font: #{$default-size}/#{$line-height} $default-font;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: $gray;
+    font-family: $default-font;
+    font-weight: 400;
+    line-height: $line-height;
+    margin: 0 0 $padding;
+}
+
+a:link,
+a:visited {
+    color: $blue;
+}
+
+a:hover,
+a:focus,
+a:active {
+    color: $default-color;
+}
