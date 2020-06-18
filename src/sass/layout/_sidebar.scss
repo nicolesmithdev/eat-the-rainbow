@@ -26,6 +26,13 @@
 
         li {
             list-style: none;
+
+            span.count {
+                color: $gray;
+                font-family: $alt-font;
+                font-size: 12px;
+                margin-left: 0.25em;
+            }
         }
     }
 

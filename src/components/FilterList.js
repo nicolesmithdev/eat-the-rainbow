@@ -1,5 +1,6 @@
 import React from 'react';
 import filters from '../data/filters';
+import recipes from '../data/recipes.json';
 
 class FilterList extends React.Component {
     state = {
@@ -41,12 +42,26 @@ class FilterList extends React.Component {
             <div className={`filter ${name.toLowerCase()}`}>
                 <h3>{name}</h3>
                 <ul>
-                    {values.map((value, i) => (
+                    {values.map((value, i) => {
+                        const key = name.toLowerCase();
+                        
+                        let count = "";
+                        if ( key === "container" ) {
+                            count = recipes.filter(recipe => recipe.container.some(c => c.color.includes(`${value}`))).length;
+                        } else {
+                            count = recipes.filter(recipe => recipe[key].includes(`${value}`)).length;
+                        }
+
+                        const displayCount = count > 0 ? <span className="count">({count})</span> : '';
+
+                        return (
                         <li>
                             <input type="checkbox" id={value} value={`${name}.${value}`} onChange={this.onFilterChange} />
                             <label htmlFor={value}>{value}</label>
+                            {displayCount}
                         </li>
-                    ))}
+                        );
+                    })}
                 </ul>
             </div>
         ));
