@@ -1,15 +1,39 @@
 .recipe {
     background-color: $white;
     border: 5px solid $medium-gray;
-    line-height: 35px;
+    line-height: 20px;
     padding: $padding;
+
+    @include respond-to('small') {
+        display: grid;
+        grid-column-gap: $padding;
+        grid-template-columns: max-content auto;
+    }
 
     &:not(:last-child) {
         margin-bottom: $padding;
     }
 
     > * {
-        margin-bottom: 0;
+        margin-bottom: 15px;
+
+        &:last-child {
+            margin-bottom: 0;
+        }
+    }
+
+    img {
+        display: block;
+
+        width: 100%;
+
+        @include respond-to('small') {
+            grid-column: 1;
+            grid-row: 1 / 6;
+            margin-bottom: 0;
+            max-height: 170px;
+            max-width: 170px;
+        }
     }
 
     .containers {

@@ -1,6 +1,8 @@
 import React from 'react';
 
 const RecipeCard = ({recipe}) => {
+    const image = recipe.image ? recipe.image : 'placeholder.jpg';
+
     const containers = Object.values(recipe.container).map((item, i) => <span><span key={i} className={item.color.toLowerCase()}></span> {item.count}</span>);
 
     // const vegan = Object.values(recipe.container_vegan).map((item, i) => <span><span key={i} className={item.color.toLowerCase()}></span> {item.count}</span>);
@@ -9,6 +11,7 @@ const RecipeCard = ({recipe}) => {
 
     return (
         <div className="recipe">
+            <img src={'/images/' + image} alt={recipe.title} />
             <h2>{recipe.title}</h2>
             <div className="containers">{containers}</div>
             <div><strong>Category:</strong> {recipe.category}</div>
