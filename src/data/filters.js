@@ -1,7 +1,7 @@
 const filters = [
     {
         name: 'Category',
-        values: [ 'Breakfast', 'Entrees', 'Sides & Snacks', 'Salads & Soups', 'Sauces, Dressings, & Seasonings', 'Desserts & Cocktails', 'Shakeology' ],
+        values: [ 'Breakfast', 'Entrees', 'Sides & Snacks', 'Salads', 'Soups', 'Sauces, Dressings, & Seasonings', 'Desserts', 'Cocktails', 'Shakeology' ],
     },
     {
         name: 'Container',
@@ -9,7 +9,7 @@ const filters = [
     },
     {
         name: 'Dietary',
-        values: [ 'Gluten-Free', 'Fiber', 'Non-Dairy', 'Quick & Easy', 'Paleo', 'Vegan', 'Vegetarian', '80 Day' ]
+        values: [ 'Gluten-Free', 'High in Fiber', 'Non-Dairy', 'Quick & Easy', 'Paleo', 'Protein', 'Vegan', 'Vegetarian', '80 Day' ]
     },
     {
         name: 'Source',
