@@ -29,14 +29,15 @@
 
         @include respond-to('small') {
             grid-column: 1;
-            grid-row: 1 / 6;
+            grid-row: 1 / 7;
             margin-bottom: 0;
             max-height: 170px;
             max-width: 170px;
         }
     }
 
-    .containers {
+    .containers,
+    .containers-vegan {
         > span {
             display: inline-block;
             font-size: 14px;
@@ -45,10 +46,12 @@
                 margin-right: 0.5em;
             }
 
+            // Color
             > span {
                 border-radius: 3px;
                 display: inline-block;
                 height: 20px;
+                text-align: center;
                 vertical-align: middle;
                 width: 20px;
 
@@ -62,6 +65,12 @@
                     display: none;
                 }
             }
+        }
+    }
+
+    .containers-vegan {
+        > strong {
+            margin-right: 0.25em;
         }
     }
 }
