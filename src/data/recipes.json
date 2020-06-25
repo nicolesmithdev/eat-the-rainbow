@@ -1,6 +1,10 @@
 [
     {
         "title": "Tofu Chili",
+        "image": {
+            "src": "tofu-chili.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Entrees",
         "container": [
             {
@@ -24,8 +28,26 @@
                 "count": 1
             }
         ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "French Toast Muffins",
@@ -45,7 +67,7 @@
     },
     {
         "title": "Cauliflower Ice Cream",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Green",
@@ -61,7 +83,7 @@
             }
          ],
          "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-         "source": ["Monthly Group"]
+         "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Vegan Meatloaf",
@@ -73,6 +95,28 @@
             },
             {
                 "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
                 "count": 1
             },
             {
@@ -104,12 +148,30 @@
                 "count": 1
             }
         ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Purple",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
         "source": ["Monthly Group"]
     },
     {
         "title": "Loaded Cauliflower Casserole",
-        "category": "Sides & Snacks",
+        "category": "Entrees",
         "container": [
             {
                 "color": "Green",
@@ -125,11 +187,11 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Coconut Chickpea Stew",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -148,8 +210,26 @@
                 "count": "1/2"
             }
         ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Chicken Tikka Marsala",
@@ -172,6 +252,10 @@
         "category": "Entrees",
         "container": [
             {
+                "color": "Green",
+                "count": 1
+            },
+            {
                 "color": "Blue",
                 "count": 1
             },
@@ -181,7 +265,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Tofu Pineapple Breakfast Skilley + Tofu Sausage",
@@ -213,14 +297,10 @@
     },
     {
         "title": "Shrimp and Cauliflower Grits",
-        "category": "Breakfast",
+        "category": "Entrees",
         "container": [
             {
                 "color": "Green",
-                "count": 1
-            },
-            {
-                "color": "Purple",
                 "count": 1
             },
             {
@@ -228,8 +308,8 @@
                 "count": 1
             },
             {
-                "color": "Yellow",
-                "count": "1 1/2"
+                "color": "Blue",
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
@@ -237,7 +317,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Sweet Potato and Roasted Red Pepper Dip",
@@ -252,11 +332,21 @@
                 "count": 1
             }
         ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
-        "title": "Pasta Fagioli",
+        "title": "Pasta e Fagioli",
         "category": "Entrees",
         "container": [
             {
@@ -273,11 +363,11 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Roast Artichoke Salad with Chickpea Viniagrette",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -300,12 +390,30 @@
                 "count": 2
             }
         ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Digestive Papaya Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Purple",
@@ -325,7 +433,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Roast Chicken with Honey Mustard Glaze",
@@ -349,11 +457,11 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Broccoli Cheese Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -373,7 +481,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Chicken and Dumplings",
@@ -397,7 +505,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Ultimate Vegan Sando with Vegan French Onion Spread",
@@ -424,12 +532,34 @@
                 "count": "1/2"
             }
         ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
         "dietary": ["Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Popcorn Shrimp",
-        "category": "Entrees",
+        "category": "Sides & Snacks",
         "container": [
             {
                 "color": "Red",
@@ -441,11 +571,11 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Insta-Pot Goulash",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -465,11 +595,11 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Pozole Verde",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -489,7 +619,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Rack of Lamb",
@@ -605,7 +735,7 @@
     },
     {
         "title": "Salmon Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -625,7 +755,7 @@
     },
     {
         "title": "Mini-Cheesecakes",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -699,7 +829,7 @@
     },
     {
         "title": "Deconstructed Cheesecake Dip",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -719,7 +849,7 @@
     },
     {
         "title": "Savory Cheddar Bay Donuts",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -739,7 +869,7 @@
     },
     {
         "title": "Watermelon Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -827,7 +957,7 @@
     },
     {
         "title": "Lemon Bars",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -866,12 +996,12 @@
                 "count": 1
             }
         ],
-        "dietary": ["Fiber", "Gluten-Free", "Paleo"],
+        "dietary": ["Gluten-Free", "High in Fiber", "Paleo"],
         "source": ["Monthly Group"]
     },
     {
         "title": "Easy No-Bean Chili",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Purple",
@@ -891,7 +1021,7 @@
     },
     {
         "title": "Butternut Squash Soup with Pepper Jam and Spicy Yogurt",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -914,7 +1044,7 @@
     },
     {
         "title": "Creamy Tomato Basil Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -936,7 +1066,7 @@
     },
     {
         "title": "Easy Chicken Noodle Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -961,7 +1091,7 @@
     },
     {
         "title": "French Onion Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -990,7 +1120,7 @@
     },
     {
         "title": "Italian Wedding Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -1023,7 +1153,7 @@
     },
     {
         "title": "Mexican Chicken Tortilla Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -1052,7 +1182,7 @@
     },
     {
         "title": "Minestrone Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -1078,7 +1208,7 @@
     },
     {
         "title": "Caesar Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1110,7 +1240,7 @@
     },
     {
         "title": "Calabrese Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1135,7 +1265,7 @@
     },
     {
         "title": "Creamy Chicken Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1168,7 +1298,7 @@
     },
     {
         "title": "Edamame Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1197,7 +1327,7 @@
     },
     {
         "title": "Healthified Cobb Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1225,7 +1355,7 @@
     },
     {
         "title": "On-The-Go Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1258,7 +1388,7 @@
     },
     {
         "title": "Quinoa and Black Bean Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1286,7 +1416,7 @@
     },
     {
         "title": "Red Fruit Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1315,7 +1445,7 @@
     },
     {
         "title": "Steak Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1343,7 +1473,7 @@
     },
     {
         "title": "Toasted Kale Salad with Lemon Dijon Salad Dressing",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1376,7 +1506,7 @@
     },
     {
         "title": "Tuna Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -1697,7 +1827,7 @@
         ]
     },
     {
-        "title": "Oven-Fried Chicken and Waffles",
+        "title": "Oven-Fried Chicken and Gluten-Free Waffles",
         "category": "Breakfast",
         "container": [
             {
@@ -2281,6 +2411,10 @@
     },
     {
         "title": "Chicken Stuffed Bell Peppers",
+        "image": {
+            "src": "chicken-stuffed-bell-peppers.jpg",
+            "author": "Nicole Smith"
+        },
         "category": "Entrees",
         "container": [
             {
@@ -2623,6 +2757,10 @@
                 "count": "1"
             },
             {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
                 "color": "Teaspoon",
                 "count": "1"
             }
@@ -2958,7 +3096,7 @@
     },
     {
         "title": "Almond Milk Panna Cotta with Blueberry Jam and Italian Meringue",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -2976,7 +3114,7 @@
     },
     {
         "title": "Chocolate Chia Pudding with Strawberries",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Purple",
@@ -3004,7 +3142,7 @@
     },
     {
         "title": "Chocolate Chip Cookies",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -3021,7 +3159,7 @@
     },
     {
         "title": "Chunky Monkey Ice Cream",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Purple",
@@ -3043,7 +3181,7 @@
     },
     {
         "title": "Flourless Chocolate Chickpea Brownies",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -3061,7 +3199,7 @@
     },
     {
         "title": "Peanutty Peanut Butter Squares",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -3083,7 +3221,7 @@
     },
     {
         "title": "Raspberry-Filled Cookie Bites",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -3105,7 +3243,7 @@
     },
     {
         "title": "Sciadone (Italian Easter Pie)",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -3129,7 +3267,7 @@
     },
     {
         "title": "Strawberry-Banana Ice Cream",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Purple",
@@ -3148,11 +3286,11 @@
     },
     {
         "title": "Vanilla Cake with Chocolate Frosting",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
-                "count": "2"
+                "count": "1 1/2"
             },
             {
                 "color": "Blue",
@@ -3160,7 +3298,7 @@
             },
             {
                 "color": "Teaspoon",
-                "count": "1"
+                "count": "2"
             }
         ],
         "dietary": [
@@ -3168,12 +3306,13 @@
             "Vegetarian"
         ],
         "source": [
-            "Cookbook Vol 1"
+            "Cookbook Vol 1",
+            "Cooking Show"
         ]
     },
     {
         "title": "Skinny Champagne Berry Cocktail",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -3190,7 +3329,7 @@
     },
     {
         "title": "Skinny Margarita",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -3206,7 +3345,7 @@
     },
     {
         "title": "Skinny Pina Colada",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -3223,7 +3362,7 @@
     },
     {
         "title": "Skinny Coconut Berry Refresher",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -3240,7 +3379,7 @@
     },
     {
         "title": "Skinny Cucumber Cocktail",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -3259,7 +3398,7 @@
     },
     {
         "title": "Skinny Cosmo",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -3589,7 +3728,7 @@
     },
     {
         "title": "3-Bean and Ham Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -3617,7 +3756,7 @@
     },
     {
         "title": "Miso Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -3638,7 +3777,7 @@
     },
     {
         "title": "Super Greens Soup",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -3661,7 +3800,7 @@
     },
     {
         "title": "Cauliflower and Roast Garlic Bisque",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -3686,7 +3825,7 @@
     },
     {
         "title": "Gazpacho",
-        "category": "Salads & Soups",
+        "category": "Soups",
         "container": [
             {
                 "color": "Green",
@@ -3709,7 +3848,7 @@
     },
     {
         "title": "Warm Mushroom Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -3730,7 +3869,7 @@
     },
     {
         "title": "Broccoli Salad with Creamy Maple-Dijon Dressing",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -3762,7 +3901,11 @@
     },
     {
         "title": "Mediterranean Salad",
-        "category": "Salads & Soups",
+        "image": {
+            "src": "mediterranean-salad.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -3787,7 +3930,7 @@
     },
     {
         "title": "Brussel Sprouts Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -3824,7 +3967,7 @@
     },
     {
         "title": "Antipasto Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -3852,7 +3995,7 @@
     },
     {
         "title": "Roasted Veggie Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Green",
@@ -3875,7 +4018,7 @@
     },
     {
         "title": "Winter Fruit Salad",
-        "category": "Salads & Soups",
+        "category": "Salads",
         "container": [
             {
                 "color": "Purple",
@@ -4445,6 +4588,10 @@
     },
     {
         "title": "Chicken Marsala",
+        "image": {
+            "src": "chicken-marsala.jpg",
+            "author": "Nicole Smith"
+        },
         "category": "Entrees",
         "container": [
             {
@@ -4809,7 +4956,8 @@
             "Vegetarian"
         ],
         "source": [
-            "Cookbook Vol 2"
+            "Cookbook Vol 2",
+            "Cooking Show"
         ]
     },
     {
@@ -4991,7 +5139,7 @@
     },
     {
         "title": "Peach Cobbler",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Purple",
@@ -5069,7 +5217,7 @@
     },
     {
         "title": "Mini Pumpkin Pies",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -5114,7 +5262,7 @@
     },
     {
         "title": "Almond Milk Granita",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -5132,7 +5280,7 @@
     },
     {
         "title": "Mint Chocolate Pops",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Yellow",
@@ -5149,7 +5297,7 @@
     },
     {
         "title": "Orange Cream Pops",
-        "category": "Desserts & Cocktails",
+        "category": "Desserts",
         "container": [
             {
                 "color": "Purple",
@@ -5170,7 +5318,7 @@
     },
     {
         "title": "Bloody Maria",
-        "category": "Desserts & Cocktails",
+        "category": "Cocktails",
         "container": [
             {
                 "color": "Yellow",
@@ -5190,7 +5338,7 @@
         "container": [
             {
                 "color": "Green",
-                "count": "1 1\/2"
+                "count": "1 1/2"
             },
             {
                 "color": "Red",
@@ -5262,7 +5410,7 @@
         "container": [
             {
                 "color": "Yellow",
-                "count": "1 1\/2"
+                "count": "1 1/2"
             },
             {
                 "color": "Teaspoon",
@@ -5337,7 +5485,7 @@
             },
             {
                 "color": "Orange",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5356,7 +5504,7 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
@@ -5364,7 +5512,7 @@
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5381,11 +5529,11 @@
         "container": [
             {
                 "color": "Yellow",
-                "count": "1 1\/2"
+                "count": "1 1/2"
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
@@ -5410,7 +5558,7 @@
             },
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Orange",
@@ -5431,11 +5579,11 @@
         "container": [
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5472,19 +5620,19 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
-                "count": "2 1\/2"
+                "count": "2 1/2"
             },
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5500,11 +5648,11 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
@@ -5512,7 +5660,7 @@
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5533,7 +5681,7 @@
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5579,7 +5727,7 @@
             },
             {
                 "color": "Orange",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5613,7 +5761,7 @@
         "container": [
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Blue",
@@ -5643,7 +5791,7 @@
             },
             {
                 "color": "Teaspoon",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5661,11 +5809,11 @@
         "container": [
             {
                 "color": "Yellow",
-                "count": "1 1\/2"
+                "count": "1 1/2"
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
@@ -5685,7 +5833,7 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
@@ -5693,7 +5841,7 @@
             },
             {
                 "color": "Teaspoon",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5711,11 +5859,11 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
@@ -5739,11 +5887,11 @@
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
-                "count": "1 1\/2"
+                "count": "1 1/2"
             }
         ],
         "dietary": [
@@ -5801,11 +5949,11 @@
             },
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
@@ -5860,7 +6008,7 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
@@ -5904,11 +6052,11 @@
         "container": [
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5927,7 +6075,7 @@
         "container": [
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5940,23 +6088,27 @@
     },
     {
         "title": "Vegan Egg Souffles",
+        "image": {
+            "src": "vegan-egg-souffles.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Breakfast",
         "container": [
             {
                 "color": "Green",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Red",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
-                "count": "1\/2"
+                "count": "1/2"
             }
         ],
         "dietary": [
@@ -5975,7 +6127,7 @@
         "container": [
             {
                 "color": "Purple",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Yellow",
@@ -5983,11 +6135,11 @@
             },
             {
                 "color": "Blue",
-                "count": "1\/2"
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
-                "count": "1 1\/2"
+                "count": "1 1/2"
             }
         ],
         "dietary": [
@@ -6028,5 +6180,6208 @@
         "source": [
             "Cooking Show"
         ]
+    },
+    {
+        "title": "Ahi and Avocado Quinoa Sushi",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Almond Crusted Chicken",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Amaranth Risotto",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Avocado Chicken Salad Wrap",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Bangers and Mash",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Caribbean Banana Curry",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cauliflower Tacos",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cheeseburger with Eggplant Bun",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cheesy Steak Skillet",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken and Veggie Quesadilla",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Enchiladas",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Mole",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Piccata",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Satay with Peanut Dipping Sauce",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Teriyaki Casserole",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Tinga Tacos",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chinese Meatballs",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Curried Chicken with Couscous",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Easy Pumpkin Ravioli",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegan"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Eggplant Cannelloni",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "3 1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Fish and Chips",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Andouille Sausage",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Kale Nachos",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "3"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Grilled Cheese",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Gluten-Free Pepperoni Pizza",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Healthy Belly Bowl",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Herb-Crusted Beef Tenderloin",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Homemade Hotdogs",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Insta Pot White Chili",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Monthly Group",
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Italian Meatballs",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Italian Stuffed Peppers",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Kid-Friendly Kale Nachos",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Lemon Garlic Chicken with Asparagus",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Low-Carb Japanese Noodle Bowl",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Mexican Taco Meat",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Must-Have Meatloaf",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "No Fuss Fish and Veggies",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "One Pot Bean and Sausage Stew",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Oven-Fried Chicken",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Overstuffed Turkey Club",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Paleo Tuna Salad Wrap",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pineapple Chicken Skewers",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pineapple Fried Rice",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Poke Bowl and Mango Lime Dressing",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pork Tenderloin with Pumpkin-Spiced Apples",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Quinoa Tabouli Bowl",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Seared Ahi Tuna",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sheet Pan Sausage and Peppers",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Shepards Pie",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Shrimp and Sausage Gumbo",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Shrimp and Veggie Pasta",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Shrimp Boil in Foil",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Slow Cooked Chicken in Wine Sauce",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Slow Cooked Poblano Pork",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Spaghetti Squash Boats",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Spinach Stuffed Chicken Breast",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Stuffed Pork Loin",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Stuffed Shells",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sweet Potato and Chicken Wraps",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Tuna Melt on Roasted Portobello Mushroom",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Turkey Chili",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Turkey Taco Lettuce Wraps",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Pulled Pork",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Sloppy Joes",
+        "image": {
+            "src": "vegan-sloppy-joes.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegetarian Portobello Sliders",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan French Onion Spread",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Wasabi Cream Cheese Salmon Burgers",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Whole-Grain Stuffed Turkey",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Zoodles Burrito Bowl",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Zucchini Noddle Lasagna",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "3"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Ahi Bruschetta",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Baba Ghanoush",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Banana Bread",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "BBQ Chicken Sliders",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Berry Quinoa Parfait",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Broccoli Tots",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Caramelized Pearl Onions",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Charred Leeks",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cheesy Cauliflower Breadsticks with Marinara",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chewy Whole-Grain Bars",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chicken Pepperoni Crumbles",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cloud Bread",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Corn Dog Muffins",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Creamy Cauliflower Mash",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Easy Egg Salad",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Eggplant Fries with Tzatziki Sauce",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Garlic Parmesan Mushrooms",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Gluten-Free Fresh Bread",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Green Bean Casserole",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Guacamole",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Homemade Salsa",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Honey-Roasted Carrots and Beets",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Loaded Sweet Potato Skins",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Maple Glazed Brussels Sprouts",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Mediterranean Quinoa",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Mexican Street Corn (Elote)",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Miso Green Beans",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Peanut Butter Oatmeal Bars",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pina Colada Fruit and Yogurt Salad",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pina Colada Yogurt",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Protein-Packed Ranch Dip",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Raspberry Peach Roll-ups",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Red Beans and Rice",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sauteed Broccoli Rabe",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Shakeology Yogurt Pudding",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Simple Fruit Dip",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Smoky Baked Beans",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Steamed Artichoke",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sweet Potato and Ham Stuffed Mushrooms",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sweet Potato Casserole",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sweet Potato Latkes",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Tortilla Pinwheels",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Spinach and Artichoke Dip",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "White Bean Dip",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Whole-Grain Stuffing",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Zucchini Bread",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Black Bean Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Bone Broth",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Buffalo Chicken Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Buffalo Chicken Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Charred Corn Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Coconut Curry Pumpkin Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Creamy Tomato Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Dill Cucumber Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Easy Chicken Noodle Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Easy Pumpkin Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Egg Drop Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Five-Minute Sweet Potato Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "French Lentil Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Garden Vegetable Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Hearty Winter Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Orange and Fennel Salad with Kalamata Olives",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Roast Cauliflower and Kale Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Spring Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Spring Veggie Orzo Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Summer Tomato Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Thai Chicken Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Tuna Salad with Artichokes and Olives",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Tuscan Bean Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Cream of Asparagus Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Zoodle Noodle Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Open-Faced Tuna Melt",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Protein"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Pineapple Upside Down Cupcakes",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free, Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Adobo Seasoning",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "All-Purpose Seasoning",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Banana BBQ Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cajun Rub",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Cranberry Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Creamy Raspberry Vinaigrette",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "BBQ Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Buffalo Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Gravy",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Ketchup",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Marinara",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Mayonnaise",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pesto",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Ranch Dressing",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Taco Seasoning",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Tartar Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Caramel Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Nacho Cheese Dip",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "3"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Honey Syrup",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Mediterranean Seasoning",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Orange Stir-Fry Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Rosemary Blue Cheese Dressing",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Sesame Infusion",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Smoky Southwestern Seasoning",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Strawberry Topping",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Thai Salad Dressing",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Thai Spice Rub",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Alfredo Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan BBQ Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Caesar Salad Dressing",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Orange",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegetarian Protein-Packed Ranch Dip",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Apple Pie Muffins",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Almond Chocolate Squares",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Avocado Brownies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Baked Donut Holes",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Banana Oatmeal Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Banana Peanut Butter Chocolate Chunk Ice Cream",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "3 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Candy Cane Martini",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Candy Corn Parfait",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            ""
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Caramel Apple Cocktail",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chocolate-Caramel Apple Nachos",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chocolate Cherry Froyo Cups",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chocolate Donuts",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Deceptively Divine Red Velvet Cupcakes",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Double Chocolate Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Easy Baked Apple Crisp",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Elderflower Meringue Cocktail",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Paloma",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vodka Collins",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Fruity Spring Rolls",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Gluten-Free Chocolate Chip Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Gooey Peanut Butter Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "3"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Grilled Peaches with Mascarpone",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Holiday Sugar Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Lemon Honey Cakes",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Lemon Raspberry Froyo Bites",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Melon Sorbet",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "No-Bake Chocolate Coconut Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "No-Bake Mini Blueberry Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pan-Fried Cinnamon Bananas",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Peanut Butter Chocolate Balls",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Pumpkin Whoopie Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Spring Sangria",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Strawberry Rhubarb Mini Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Sweet Potato Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Watermelon Agua Fresca",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Paleo",
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Chocolate Hazelnut Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Mexican Drinking Chocolate Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Yellow",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            }
+        ],
+        "dietary": [
+            "Vegetarian"
+        ],
+        "source": [
+            "Cooking Show"
+        ]
+    },
+    {
+        "title": "Vegan Refried Beans",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Corn Chowder",
+        "image": {
+            "src": "vegan-corn-chowder.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Non-Dairy", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Tofu Scramble Burrito",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Sweet Potato Hash",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Sweet Potato Hash",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Acai Bowl",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "2 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Carrot Ginger Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Root Veggie Stew",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Crispy Vegan Edamame",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Eggplant and Chickpea Casserole",
+        "image": {
+            "src": "eggplant-chickpea-casserole.jpg",
+            "author":"Meagan Walker"
+        },
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Vegan Lentil Meatballs",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Crispy Chickpeas",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Pretzel Chips",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow A",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Energy Bites",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Lemon Poppy Seed Muffins",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Peanut Butter Cup Popcorn",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Moroccan Couscous",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Broccolini and Potatoes",
+        "category": "Sides Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Olive Oil, Rosemary, and Lavender Shortbread",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Vegan Carrot Cake",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Peanut Butter Sweet Potato Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "No-Bake Key Lime Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Banana Pudding",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "White Peach, Basil, and Blueberry Mojito",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Aperol Spritz",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "White Wine Chamomile Spritzer",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Moscow Mule",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Cranberry Kombucha Cocktail",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Peach Gin and Tonic",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Hot Toddy",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
+    },
+    {
+        "title": "Mushroom Bourguignon",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Stuffed Mini Pumpkins",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Tempeh BBQ Ribs",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Bean Burrito",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Crab Cakes",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Pasta alla Carbonara",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Cucumber Wakame Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Tuna Salad",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Chocolate Avocado Pudding",
+        "category": "Sides Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Thanksgiving Stuffing",
+        "category": "Sides Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Cookie Dough Hummus",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     }
 ]
