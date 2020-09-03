@@ -12,22 +12,25 @@ const RecipeCard = ({recipe}) => {
             <div className="containers-vegan">
                 <strong>Vegan:</strong>
                 {Object.values(recipe.container_vegan).map((item, i) => {
-                    let lorem = "";
+                    let value = "";
                     switch (item.color) {
                         case "Yellow A": 
-                            lorem = "A";
+                            value = "A";
                             break;
                         case "Yellow B":
-                            lorem = "B";
+                            value = "B";
                             break;
                     }
-                    return <span><span key={i} className={item.color.toLowerCase()}>{lorem}</span> {item.count}</span>
+                    return <span><span key={i} className={item.color.toLowerCase()}>{value}</span> {item.count}</span>
                 })}
             </div>
         );
     }
 
     const dietary = recipe.dietary.join(", ").length > 0 ? <div><strong>Dietary:</strong> {recipe.dietary.join(", ")}</div> : '';
+
+    // {recipe.source.join(", ")}
+    const source = recipe.source.map(el => el == "Blog" && recipe.link ? <a href={recipe.link} target="_blank">Blog</a> : el).reduce((prev, curr) => [prev, ', ', curr]);
 
     return (
         <div className="recipe">
@@ -37,7 +40,7 @@ const RecipeCard = ({recipe}) => {
             {containersVegan}
             <div><strong>Category:</strong> {recipe.category}</div>
             {dietary}
-            <div><strong>Source:</strong> {recipe.source.join(", ")}</div>
+            <div><strong>Source:</strong> {source}</div>
         </div>
     );
 }
