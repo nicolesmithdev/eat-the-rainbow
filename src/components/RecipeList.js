@@ -12,7 +12,7 @@ class RecipeList extends React.Component {
             { currentPage: 1 },
             () => { this.props.onPaginate(this.state.currentPage); }
         );
-    }
+    }npm
 
     renderList() {
         const searchTerm = this.props.onSearchChange;
@@ -30,7 +30,16 @@ class RecipeList extends React.Component {
                     if ( key == "category" ) {
                         results = results.filter(recipe => values.some(el => el === recipe.category));
                     } else if ( key == "container") {
-                        values.map(item => { results = results.filter(recipe => recipe.container.some(c => c.color.includes(`${item}`) ) ) });
+                        values.map(item => { 
+                            results = results.filter(
+                                recipe => {
+                                    if ( recipe.container.some(c => c.color.includes(`${item}`))) return true;
+                                    if ( recipe.container_vegan && recipe.container_vegan.some(c => c.color.includes(`${item}`))) return true;
+                                }
+                            )
+                        });
+                    } else if ( key == "source" ) {
+                        results = results.filter(recipe => recipe.source.some(el => values.includes(el)));
                     } else {
                         values.map(item => { results = results.filter(recipe => recipe[key].includes(`${item}`)) });
                     }
