@@ -9,11 +9,11 @@ const filters = [
     },
     {
         name: 'Dietary',
-        values: [ 'Gluten-Free', 'High in Fiber', 'Non-Dairy', 'Quick & Easy', 'Paleo', 'Protein', 'Vegan', 'Vegetarian', '80 Day' ]
+        values: [ 'Gluten-Free', 'High in Fiber', 'High in Protein', 'Non-Dairy', 'Quick & Easy', 'Paleo', 'Vegan', 'Vegetarian', '80 Day' ]
     },
     {
         name: 'Source',
-        values: [ 'Cooking Show', 'Cookbook Vol 1', 'Cookbook Vol 2', 'Monthly Group' ]
+        values: [ 'Blog', 'Cooking Show', 'Cookbook Vol 1', 'Cookbook Vol 2', 'LWLC Book', 'Monthly Group' ]
     }
 ];
 
