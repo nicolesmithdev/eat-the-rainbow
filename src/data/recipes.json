@@ -74,7 +74,7 @@
                 "count": "1/2"
             },
             {
-                "color": "Purple",
+                "color": "Blue",
                 "count": 1
             },
             {
@@ -635,7 +635,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Roast Turnips",
@@ -651,7 +651,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Poached Cod",
@@ -771,7 +771,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show", "Monthly Group"]
     },
     {
         "title": "Spinach Pasta",
@@ -797,7 +797,7 @@
             }
         ],
         "dietary": ["Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show", "Monthly Group"]
     },
     {
         "title": "Carnitas",
@@ -813,7 +813,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Salsa Roja",
@@ -825,7 +825,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Deconstructed Cheesecake Dip",
@@ -845,7 +845,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Quick & Easy", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Savory Cheddar Bay Donuts",
@@ -865,7 +865,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Watermelon Salad",
@@ -2986,6 +2986,10 @@
     },
     {
         "title": "Pumpkin Muffins with Maple Cream Cheese",
+        "image": {
+            "src": "pumpkin-muffins-with-maple-cream-cheese.jpg",
+            "author": "Nicole Smith"
+        },
         "category": "Sides & Snacks",
         "container": [
             {
@@ -3543,10 +3547,8 @@
             "Gluten-Free",
             "Vegetarian"
         ],
-        "source": [
-            "Cookbook Vol 2",
-            "Cooking Show"
-        ]
+        "source": ["Blog", "Cookbook Vol 2", "Cooking Show"],
+        "link": "https://www.beachbodyondemand.com/blog/carrot-cake-baked-oatmeal"
     },
     {
         "title": "Spaghetti Squash Fritters",
@@ -3569,9 +3571,8 @@
             "Gluten-Free",
             "Vegetarian"
         ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "source": ["Blog", "Cookbook Vol 2"],
+        "link": "https://www.beachbodyondemand.com/blog/fixate-spaghetti-squash-fritters"
     },
     {
         "title": "Banana Boats",
@@ -4774,9 +4775,8 @@
         "dietary": [
             "Gluten-Free"
         ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "source": ["Blog", "Cookbook Vol 2"],
+        "link": "https://www.beachbodyondemand.com/blog/fixate-beef-and-broccoli"
     },
     {
         "title": "Balsamic Glazed Chicken",
@@ -4998,9 +4998,8 @@
             "Vegan",
             "Vegetarian"
         ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "source": ["Blog", "Cookbook Vol 2"],
+        "link": "https://www.beachbodyondemand.com/blog/fixate-guacamole-recipe"
     },
     {
         "title": "Creamy Maple-Dijon Dressing",
@@ -5499,7 +5498,7 @@
         ]
     },
     {
-        "title": "Cashew 'n Oat Hotcakes",
+        "title": "Cashew 'n Oat Hotcakes (Pancakes)",
         "category": "Breakfast",
         "container": [
             {
@@ -9257,6 +9256,10 @@
     },
     {
         "title": "Dill Cucumber Salad",
+        "image": {
+            "src": "dill-cucumber-salad.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Salads",
         "container": [
             {
@@ -9733,7 +9736,7 @@
                 "count": "1/2"
             }
         ],
-        "dietary": ["Protein"],
+        "dietary": ["High in Protein"],
         "source": ["Monthly Group"]
     },
     {
@@ -10265,6 +10268,10 @@
     },
     {
         "title": "Vegan Alfredo Sauce",
+        "image": {
+            "src": "vegan-alfredo-sauce.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Sauces, Dressings, & Seasonings",
         "container": [
             {
@@ -10933,6 +10940,10 @@
     },
     {
         "title": "No-Bake Mini Blueberry Pies",
+        "image": {
+            "src": "no-bake-mini-blueberry-pies.jpg",
+            "author": "Nicole Smith"
+        },
         "category": "Desserts",
         "container": [
             {
@@ -11190,7 +11201,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Monthly Group", "Cooking Show"]
     },
     {
         "title": "Vegan Corn Chowder",
@@ -11313,7 +11324,11 @@
         "source": ["Cooking Show"]
     },
     {
-        "title": "Sweet Potato Hash",
+        "title": "Sweet Potato Hash (without egg)",
+        "image": {
+            "src": "sweet-potato-hash-without-egg.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Breakfast",
         "container": [
             {
@@ -11432,6 +11447,10 @@
     },
     {
         "title": "Crispy Vegan Edamame",
+        "image": {
+            "src": "crispy-vegan-edamame.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Sides & Snacks",
         "container": [
             {
@@ -11530,6 +11549,10 @@
     },
     {
         "title": "Crispy Chickpeas",
+        "image": {
+            "src": "crispy-chickpeas.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Sides & Snacks",
         "container": [
             {
@@ -11710,7 +11733,7 @@
     },
     {
         "title": "Broccolini and Potatoes",
-        "category": "Sides Snacks",
+        "category": "Sides & Snacks",
         "container": [
             {
                 "color": "Green",
@@ -11826,7 +11849,8 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Cookbook Vol 2"]
+        "source": ["Blog", "Cookbook Vol 2"],
+        "link": "https://www.beachbodyondemand.com/blog/fixate-peanut-butter-sweet-potato-cookies"
     },
     {
         "title": "No-Bake Key Lime Pies",
@@ -12254,6 +12278,10 @@
     },
     {
         "title": "Vegan Tuna Salad",
+        "image": {
+            "src": "vegan-tuna-salad.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Entrees",
         "container": [
             {
@@ -12288,7 +12316,7 @@
     },
     {
         "title": "Vegan Chocolate Avocado Pudding",
-        "category": "Sides Snacks",
+        "category": "Sides & Snacks",
         "container": [
             {
                 "color": "Yellow",
@@ -12314,7 +12342,7 @@
     },
     {
         "title": "Vegan Thanksgiving Stuffing",
-        "category": "Sides Snacks",
+        "category": "Sides & Snacks",
         "container": [
             {
                 "color": "Green",
@@ -12356,6 +12384,10 @@
     },
     {
         "title": "Cookie Dough Hummus",
+        "image": {
+            "src": "cookie-dough-hummus.jpg",
+            "author": "Meagan Walker"
+        },
         "category": "Desserts",
         "container": [
             {
@@ -12383,5 +12415,1566 @@
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
         "source": ["Cooking Show"]
+    },
+    {
+        "title": "Mocha Chip Latte Shakeology",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/mocha-chip-latte-shakeology"
+    },
+    {
+        "title": "Spaghetti Squash with Tomatoes and Mushrooms",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 3
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/spaghetti-squash-with-tomatoes-and-mushrooms"
+    },
+    {
+        "title": "Apple Cranberry Coleslaw",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Mini Apple Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "German Potato Salad",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Strawberry Cheesecake Pops",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Grilled Cobb Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Fiber", "High in Protein"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Beer Brats",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["High in Protein", "Non-Dairy"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Crispy Fish Taco Bowls",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Protein", "Non-Dairy"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Roasted Tomatillo Salsa",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Free",
+                "count": "Free"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Slow Cooker Beef Chili",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/slow-cooker-beef-chili-recipe"
+    },
+    {
+        "title": "Chicken Gumbo",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/chicken-gumbo"
+    },
+    {
+        "title": "Irish Stew",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/irish-stew"
+    },
+    {
+        "title": "Slow Cooker Cheesy Chicken Enchiladas",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["High in Fiber", "High in Protein"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/slow-cooker-chicken-enchiladas-recipe"
+    },
+    {
+        "title": "Slow Cooker Chicken Fajitas",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["High in Protein"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/slow-cooker-chicken-fajitas"
+    },
+    {
+        "title": "Slow Cooker Chicken and Quinoa with Spring Vegetables",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/slow-cooker-chicken-and-quinoa-with-spring-vegetables-recipe"
+    },
+    {
+        "title": "Slow Cooker Turkey Meatballs",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["High in Protein"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/slow-cooker-turkey-meatballs"
+    },
+    {
+        "title": "Vegan Slow Cooker Stew with Chickpeas and Spinach",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Fiber", "Non-Dairy", "Vegan", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/vegan-slow-cooker-stew"
+    },
+    {
+        "title": "Slow Cooker Banana Bread Oatmeal",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/slow-cooker-banana-bread-oatmeal"
+    },
+    {
+        "title": "Instant Pot Beef Stew",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/instant-pot-beef-stew-recipe"
+    },
+    {
+        "title": "Coco Mocha Latte Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/coca-mocha-latte-shakeology"
+    },
+    {
+        "title": "Peach Cobbler Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peach-cobbler-shakeology-recipe"
+    },
+    {
+        "title": "Birthday Blueberry Chocolate Truffle Balls",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/chocolate-shakeology-balls"
+    },
+    {
+        "title": "Vanilla Birthday Cake Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Red",
+                "count": 2
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/vanilla-shakeology-birthday-shake"
+    },
+    {
+        "title": "Chocolate Birthday Cake Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/chocolate-shakeology-birthday-shake"
+    },
+    {
+        "title": "Vegan German Chocolate Cake Shakeology",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/vegan-chocolate-cake-shakeology"
+    },
+    {
+        "title": "Strawberry and Mint Pops",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/strawberry-and-mint-pops"
+    },
+    {
+        "title": "Chocolate Recover Zucchini Bread Smoothie",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/chocolate-zucchini-bread-smoothie"
+    },
+    {
+        "title": "Strawberry Salad with Spinach and Feta",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/strawberry-salad-with-spinach-and-feta"
+    },
+    {
+        "title": "Chickpea Brownie Dip",
+        "image": {
+            "src": "chickpea-brownie-dip.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Quick & Easy", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Raspberry Lime Mojito",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Blueberry Pie Oats",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Breakfast Enchiladas",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Slow-Cooker Sausage and Egg Grits",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Cajun Sausage and Apple Skillet",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Curry Chicken Salad",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Crispy Tofu Buddha Bowl",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Buffalo Chicken Celery Sticks",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Individual 7-Layer Dip",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Garlic Parmesan Popcorn",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Chicken Alfredo",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Healthy Burger Bowls",
+        "image": {
+            "src": "healthy-burger-bowls.jpg",
+            "author": "Nicole Smith"
+        },
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Slow-Cooker Asian Chicken",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Steak Chimichurri",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Vegan Tacos with Aji Verde",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Aji Verde Sauce",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Mediterranean Spiced Carrots",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Roasted Balsamic Rosemary Mushrooms",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Roast Garlic Mashed Potatoes",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Blondies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Lemon Meringue Pies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Peanut Butter Apple Pie Cookies",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "2 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Vegan Chocolate Chip Scones",
+        "category": "Desserts",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teapsoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teapsoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Pomegranate Margarita",
+        "image": {
+            "src": "pomegranate-margarita.jpg",
+            "author": "Nicole Smith"
+        },
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Sunset Frizzante",
+        "category": "Cocktails",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["LWLC Book"]
+    },
+    {
+        "title": "Cubano Sandwich",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["High in Protein"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Black-Eyed Peas",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Stuffed Shishito Peppers",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Cucumber Soup",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Protein", "Quick & Easy", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Gazpacho",
+        "category": "Soups",
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Smoked Salmon Omelet",
+        "category": "Breakfast",
+        "container": [
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Protein", "Quick & Easy"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Chicken Yakitori Skewers",
+        "category": "Entrees",
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Au Gratin Potato Cups",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Grilled Caesar Salad with Tofu Caesar Dressing",
+        "category": "Salads",
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Non-Dairy", "Quick & Easy", "Vegetarian", "Vegan"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/vegan-grilled-caesar-salad"
+    },
+    {
+        "title": "Tofu Caeser Dressing",
+        "category": "Sauces, Dressings, & Seasonings",
+        "container": [
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Non-Dairy", "Vegetarian", "Vegan"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/tofu-caesar-dressing"
+    },
+    {
+        "title": "Glow Better Shakeology with Collagen Boost",
+        "category": "Shakeology",
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "High in Fiber", "High in Protein", "Quick & Easy"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/collagen-shake-recipe"
+    },
+    {
+        "title": "Piña Colada with Collagen Boost",
+        "category": "Sides & Snacks",
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/pina-colada-collagen-smoothie"
     }
 ]
