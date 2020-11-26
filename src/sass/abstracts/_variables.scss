@@ -29,6 +29,10 @@ $containers: (
 	'yellow': (color: $yellow)
 );
 
+// FONTS
+
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400&family=Oswald:ital,wght@0,400;0,500&family=Raleway:ital,wght@0,400;0,600&display=swap');
+
 // VARIABLES
 
 $alt-font: Lato, arial, helvetica, sans-serif;
