@@ -1,33 +1,16 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Eat The Rainbow</title>
+    <title><%= htmlWebpackPlugin.options.title %></title>
     <meta charset="utf-8" />
-    <meta name="author" content="@nicolesmithdev"/>
-    <meta name="description" content="This tool is an indepedent project developed to organize recipes specifically tailored for color-coded portion-control containers. This website is not affiliated with any company, program, or spokesperson." />
-    <meta name="robots" content="index, follow" />
-    <meta name="theme-color" content="#8CC63F"/>
-    <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <meta property="og:title" content="Eat The Rainbow">
+    <meta property="og:title" content="<%= htmlWebpackPlugin.options.title %>">
     <meta property="og:description" content="This tool is an indepedent project developed to organize recipes specifically tailored for color-coded portion-control containers. This website is not affiliated with any company, program, or spokesperson.">
-
-    <link href="https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,400;1,400&family=Oswald:ital,wght@0,400;0,500&family=Raleway:ital,wght@0,400;0,600&display=swap" rel="stylesheet">
-
-    <!-- Global site tag (gtag.js) - Google Analytics -->
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-30012836-58"></script>
-    <script>
-      window.dataLayer = window.dataLayer || [];
-      function gtag(){dataLayer.push(arguments);}
-      gtag('js', new Date());
-
-      gtag('config', 'UA-30012836-58');
-    </script>
   </head>
   <body>
     <div class="page">
         <header id="header">
             <div class="wrap">
-                <h1><a href="/">Eat The Rainbow<sup>Beta</sup></a></h1>
+                <h1><a href="/">Eat The Rainbow</a></h1>
             </div>
         </header>
         <noscript>You need to enable JavaScript to run this app.</noscript>
@@ -35,8 +18,10 @@
         <footer id="footer">
             <div class="wrap">
                 <div class="disclaimer">
-                    <p>Disclaimer: This tool is an indepedent project developed to organize recipes specifically tailored for color-coded portion-control containers. This website is not affiliated with any company, program, or spokesperson.</p></div><p>&copy; 2020 <a href="/">Eat The Rainbow</a> &bull; <a href="https://www.buymeacoffee.com/nicolesmithdev" target="_blank">Support</a> &bull; <a href="mailto:hello@eattherainbow.recipes?subject=Submit%20Feedback">Submit Feedback</a> &bull; <a href="mailto:report@eattherainbow.recipes?subject=Report%20an%20Error">Report an Error</a></p>
+                    <p>Disclaimer: This tool is an indepedent project developed to organize recipes specifically tailored for color-coded portion-control containers. This website is not affiliated with any company, program, or spokesperson.</p>
                 </div>
+                
+                <p>&copy; 2020 <a href="/">Eat The Rainbow</a> &bull; <a href="https://www.buymeacoffee.com/nicolesmithdev" target="_blank">Support</a> &bull; <a href="mailto:hello@eattherainbow.recipes?subject=Submit%20Feedback">Submit Feedback</a> &bull; <a href="mailto:report@eattherainbow.recipes?subject=Report%20an%20Error">Report an Error</a></p>
             </div>
         </footer>
     </div>
