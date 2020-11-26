@@ -27,9 +27,10 @@ class RecipeList extends React.Component {
             Object.keys(params.filters).map(key => {
                 let values = params.filters[key];
                 if ( values.length) {
-                    if ( key == "category" ) {
+                    /*if ( key == "category" ) {
                         results = results.filter(recipe => values.some(el => el === recipe.category));
-                    } else if ( key == "container") {
+                    } else */
+                    if ( key == "container") {
                         values.map(item => { 
                             results = results.filter(
                                 recipe => {

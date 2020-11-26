@@ -27,9 +27,8 @@ const RecipeCard = ({recipe}) => {
         );
     }
 
+    const category = recipe.category.join(", ").length > 0 ? <div><strong>Category:</strong> {recipe.category.join(", ")}</div> : '';
     const dietary = recipe.dietary.join(", ").length > 0 ? <div><strong>Dietary:</strong> {recipe.dietary.join(", ")}</div> : '';
-
-    // {recipe.source.join(", ")}
     const source = recipe.source.map(el => el == "Blog" && recipe.link ? <a href={recipe.link} target="_blank">Blog</a> : el).reduce((prev, curr) => [prev, ', ', curr]);
 
     return (
@@ -38,7 +37,7 @@ const RecipeCard = ({recipe}) => {
             <h2>{recipe.title}</h2>
             <div className="containers">{containers}</div>
             {containersVegan}
-            <div><strong>Category:</strong> {recipe.category}</div>
+            {category}
             {dietary}
             <div><strong>Source:</strong> {source}</div>
         </div>
