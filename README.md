@@ -8,10 +8,8 @@ The official Eat The Rainbow app can be found here: https://eattherainbow.recipe
 
 ### Future Updates
 
-This is my first React project, but because this application has been in demand, I wanted to soft launch it in beta while I cataloged recipes and improved components. Eventually I would like to implement the following updates:
+This is my first and on-going React project. Eventually I would like to implement the following enhancements:
 
-1. Correct vegan specific containers
-2. Improve pagination or infinite scrolling
-3. Integrate timed-nutrition filter(s)
-4. Add user rating / "Most Popular"
-5. Incorporate user-submitted recipe images
+1. Improve pagination or infinite scrolling
+2. Add user rating / "Most Popular"
+3. Sort by recently added
