@@ -1,6 +1,6 @@
 import React from 'react';
 
-const RecipeCard = ({recipe}) => {
+const RecipeCard = ({recipe},index) => {
     const image = recipe.image ? recipe.image.src : 'placeholder.jpg';
     const imageAuthor = recipe.image ? `Photo Credit: ${recipe.image.author}` : '';
 
@@ -29,10 +29,10 @@ const RecipeCard = ({recipe}) => {
 
     const category = recipe.category.join(", ").length > 0 ? <div><strong>Category:</strong> {recipe.category.join(", ")}</div> : '';
     const dietary = recipe.dietary.join(", ").length > 0 ? <div><strong>Dietary:</strong> {recipe.dietary.join(", ")}</div> : '';
-    const source = recipe.source.map(el => el == "Blog" && recipe.link ? <a href={recipe.link} target="_blank">Blog</a> : el).reduce((prev, curr) => [prev, ', ', curr]);
+    const source = recipe.source.map((el,i) => el == "Blog" && recipe.link ? <a key={i} href={recipe.link} target="_blank">Blog</a> : el).reduce((prev, curr) => [prev, ', ', curr]);
 
     return (
-        <div className="recipe">
+        <div key={index} className="recipe">
             <img src={'/images/' + image} alt={recipe.title} title={imageAuthor}/>
             <h2>{recipe.title}</h2>
             <div className="containers">{containers}</div>
