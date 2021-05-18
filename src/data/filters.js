@@ -1,7 +1,7 @@
 const filters = [
     {
         name: 'Category',
-        values: [ 'Breakfast', 'Entrees', 'Holiday', 'Sides & Snacks', 'Salads', 'Soups', 'Sauces, Dressings, & Seasonings', 'Desserts', 'Cocktails', 'Shakeology' ],
+        values: [ 'Breakfast', 'Cocktails', 'Crockpot', 'Desserts', 'Entrees', 'Holiday', 'Salads', 'Sauces, Dressings, & Seasonings', 'Shakeology', 'Sides & Snacks', 'Soups' ],
     },
     {
         name: 'Container',
@@ -13,7 +13,7 @@ const filters = [
     },
     {
         name: 'Source',
-        values: [ 'Blog', 'Cooking Show', 'Cookbook Vol 1', 'Cookbook Vol 2', 'LWLC Book', 'Monthly Group', 'DietBet' ]
+        values: [ 'Blog', 'Cooking Show', 'Cookbook Vol 1', 'Cookbook Vol 2', 'DietBet', 'LWLC Book', 'Monthly Group' ]
     }
 ];
 
