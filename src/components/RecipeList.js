@@ -12,7 +12,7 @@ class RecipeList extends React.Component {
             { currentPage: 1 },
             () => { this.props.onPaginate(this.state.currentPage); }
         );
-    }npm
+    }
 
     renderList() {
         const searchTerm = this.props.onSearchChange;
@@ -53,7 +53,7 @@ class RecipeList extends React.Component {
         const indexOfLastPost = this.props.resetPagination * postsPerPage;
         const indexOfFirstPost = indexOfLastPost - postsPerPage;
 
-        const filteredRecipes = results.map((recipe) => (<RecipeCard recipe={recipe}/>)).slice(indexOfFirstPost, indexOfLastPost);
+        const filteredRecipes = results.map((recipe,i) => (<RecipeCard key={i} recipe={recipe}/>)).slice(indexOfFirstPost, indexOfLastPost);
 
         if ( searchTerm || params ) {
             if ( filteredRecipes.length ) {
