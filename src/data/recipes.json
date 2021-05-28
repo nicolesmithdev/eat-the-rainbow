@@ -47,7 +47,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "French Toast Muffins",
@@ -83,7 +83,7 @@
             }
          ],
          "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-         "source": ["Monthly Group", "Cooking Show"]
+         "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Meatloaf",
@@ -187,7 +187,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Coconut Chickpea Stew",
@@ -229,7 +229,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Tikka Marsala",
@@ -265,7 +265,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tofu Pineapple Breakfast Skilley + Tofu Sausage",
@@ -317,7 +317,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sweet Potato and Roasted Red Pepper Dip",
@@ -343,7 +343,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pasta e Fagioli",
@@ -363,7 +363,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Roast Artichoke Salad with Chickpea Viniagrette",
@@ -409,7 +409,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Digestive Papaya Salad",
@@ -433,7 +433,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Roast Chicken with Honey Mustard Glaze",
@@ -457,7 +457,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Broccoli Cheese Soup",
@@ -481,7 +481,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken and Dumplings",
@@ -505,7 +505,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ultimate Vegan Sando with Vegan French Onion Spread",
@@ -555,7 +555,7 @@
             }
         ],
         "dietary": ["Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Popcorn Shrimp",
@@ -571,7 +571,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Insta-Pot Goulash",
@@ -595,7 +595,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pozole Verde",
@@ -619,7 +619,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Rack of Lamb",
@@ -635,7 +635,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Roast Turnips",
@@ -655,7 +655,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Poached Cod",
@@ -817,7 +817,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Salsa Roja",
@@ -829,7 +829,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Deconstructed Cheesecake Dip",
@@ -849,7 +849,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Quick & Easy", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Savory Cheddar Bay Donuts",
@@ -869,7 +869,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Watermelon Salad",
@@ -957,7 +957,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Lemon Bars",
@@ -973,7 +973,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chili Cornbread Waffles",
@@ -1001,7 +1001,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Fiber", "Paleo"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Easy No-Bean Chili",
@@ -1021,7 +1021,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Butternut Squash Soup with Pepper Jam and Spicy Yogurt",
@@ -1048,6 +1048,10 @@
     },
     {
         "title": "Creamy Tomato Basil Soup",
+        "image": {
+            "src": "creamy-tomato-basil-soup.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Soups"],
         "container": [
             {
@@ -2964,6 +2968,10 @@
     },
     {
         "title": "Homemade Granola",
+        "image": {
+            "src": "homemade-granola.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -3189,6 +3197,10 @@
     },
     {
         "title": "Flourless Chocolate Chickpea Brownies",
+        "image": {
+            "src": "flourless-chocolate-chickpea-brownies.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Desserts"],
         "container": [
             {
@@ -3705,6 +3717,10 @@
     },
     {
         "title": "Sausage and Egg Sandwich",
+        "image": {
+            "src": "sausage-and-egg-sandwich.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Breakfast"],
         "container": [
             {
@@ -4565,6 +4581,10 @@
     },
     {
         "title": "Maple Rosemary English Muffins",
+        "image": {
+            "src": "maple-rosemary-english-muffins.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -5817,15 +5837,12 @@
             },
             {
                 "color": "Teaspoon",
-                "count": "1"
+                "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Blog", "Cooking Show"],
+        "link": "https://www.beachbodyondemand.com/blog/fixate-pumpkin-muffins-pumpkin-spice-frosting"
     },
     {
         "title": "Pumpkin Pie Amaranth Porridge",
@@ -6911,31 +6928,6 @@
         ]
     },
     {
-        "title": "Italian Meatballs",
-        "category": ["Entrees"],
-        "container": [
-            {
-                "color": "Red",
-                "count": "1"
-            },
-            {
-                "color": "Yellow",
-                "count": "1/2"
-            },
-            {
-                "color": "Teaspoon",
-                "count": "1"
-            }
-        ],
-        "dietary": [
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
-    },
-    {
         "title": "Italian Stuffed Peppers",
         "category": ["Entrees"],
         "container": [
@@ -7426,7 +7418,7 @@
         ]
     },
     {
-        "title": "Shepards Pie",
+        "title": "Shepherd's Pie",
         "category": ["Entrees"],
         "container": [
             {
@@ -7739,35 +7731,6 @@
             {
                 "color": "Blue",
                 "count": "1"
-            }
-        ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
-    },
-    {
-        "title": "Turkey Chili",
-        "category": ["Entrees"],
-        "container": [
-            {
-                "color": "Green",
-                "count": "1/2"
-            },
-            {
-                "color": "Yellow",
-                "count": "1"
-            },
-            {
-                "color": "Red",
-                "count": "1"
-            },
-            {
-                "color": "Teaspoon",
-                "count": "1/2"
             }
         ],
         "dietary": [
@@ -8420,6 +8383,10 @@
     },
     {
         "title": "Green Bean Casserole",
+        "image": {
+            "src": "green-bean-casserole.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -8451,26 +8418,6 @@
             {
                 "color": "Blue",
                 "count": "1"
-            }
-        ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
-    },
-    {
-        "title": "Homemade Salsa",
-        "category": ["Sides & Snacks"],
-        "container": [
-            {
-                "color": "Green",
-                "count": "1/2"
             }
         ],
         "dietary": [
@@ -8638,6 +8585,10 @@
     },
     {
         "title": "Peanut Butter Oatmeal Bars",
+        "image": {
+            "src": "peanut-butter-oatmeal-bars.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -8905,6 +8856,10 @@
     },
     {
         "title": "Sweet Potato Casserole",
+        "image": {
+            "src": "sweet-potato-casserole.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -9145,6 +9100,10 @@
     },
     {
         "title": "Buffalo Chicken Soup",
+        "image": {
+            "src": "buffalo-chicken-soup.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Soups"],
         "container": [
             {
@@ -9742,7 +9701,7 @@
             }
         ],
         "dietary": ["High in Protein"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pineapple Upside Down Cupcakes",
@@ -9758,7 +9717,7 @@
             }
         ],
         "dietary": ["Gluten-Free, Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Adobo Seasoning",
@@ -11184,6 +11143,10 @@
     },
     {
         "title": "Vegan Refried Beans",
+        "image": {
+            "src": "vegan-refried-beans.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -11206,7 +11169,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Corn Chowder",
@@ -12267,7 +12230,7 @@
             }
         ],
         "dietary": [],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cucumber Wakame Salad",
@@ -12283,7 +12246,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Tuna Salad",
@@ -12519,7 +12482,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mini Apple Pies",
@@ -12553,7 +12516,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "German Potato Salad",
@@ -12573,7 +12536,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Strawberry Cheesecake Pops",
@@ -12589,7 +12552,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Grilled Cobb Salad",
@@ -12613,7 +12576,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Fiber", "High in Protein"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Beer Brats",
@@ -12633,10 +12596,14 @@
             }
         ],
         "dietary": ["High in Protein", "Non-Dairy"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Crispy Fish Taco Bowls",
+        "image": {
+            "src": "crispy-fish-taco-bowls.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -12657,10 +12624,14 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Protein", "Non-Dairy"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Roasted Tomatillo Salsa",
+        "image": {
+            "src": "roasted-tomatillo-salsa.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -12669,11 +12640,11 @@
             }
         ],
         "dietary": ["Gluten-Free", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Slow Cooker Beef Chili",
-        "category": ["Soups"],
+        "category": ["Soups", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -12748,7 +12719,7 @@
     },
     {
         "title": "Slow Cooker Cheesy Chicken Enchiladas",
-        "category": ["Entrees"],
+        "category": ["Entrees", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -12773,7 +12744,7 @@
     },
     {
         "title": "Slow Cooker Chicken Fajitas",
-        "category": ["Entrees"],
+        "category": ["Entrees", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -12798,7 +12769,7 @@
     },
     {
         "title": "Slow Cooker Chicken and Quinoa with Spring Vegetables",
-        "category": ["Entrees"],
+        "category": ["Entrees", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -12823,7 +12794,7 @@
     },
     {
         "title": "Slow Cooker Turkey Meatballs",
-        "category": ["Entrees"],
+        "category": ["Entrees", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -12844,7 +12815,7 @@
     },
     {
         "title": "Vegan Slow Cooker Stew with Chickpeas and Spinach",
-        "category": ["Entrees"],
+        "category": ["Entrees", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -12869,7 +12840,7 @@
     },
     {
         "title": "Slow Cooker Banana Bread Oatmeal",
-        "category": ["Breakfast"],
+        "category": ["Breakfast", "Crockpot"],
         "container": [
             {
                 "color": "Purple",
@@ -13142,7 +13113,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Quick & Easy", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Raspberry Lime Mojito",
@@ -13158,7 +13129,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Blueberry Pie Oats",
@@ -13290,6 +13261,10 @@
     },
     {
         "title": "Crispy Tofu Buddha Bowl",
+        "image": {
+            "src": "crispy-tofu-buddha-bowl.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -13516,6 +13491,10 @@
     },
     {
         "title": "Vegan Tacos with Aji Verde",
+        "image": {
+            "src": "vegan-tacos-with-aji-verde.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -13784,7 +13763,7 @@
             }
         ],
         "dietary": ["High in Protein"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Black-Eyed Peas",
@@ -13800,7 +13779,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Stuffed Shishito Peppers",
@@ -13824,7 +13803,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cucumber Soup",
@@ -13844,7 +13823,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Protein", "Quick & Easy", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gazpacho",
@@ -13864,7 +13843,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegetarian"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Smoked Salmon Omelet",
@@ -13880,7 +13859,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Protein", "Quick & Easy"],
-        "source": ["Monthly Group", "Cooking Show"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Yakitori Skewers",
@@ -13896,7 +13875,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Au Gratin Potato Cups",
@@ -13916,7 +13895,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Grilled Caesar Salad with Tofu Caesar Dressing",
@@ -14014,7 +13993,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gluten-Free Cinnamon Crunch Cereal",
@@ -14040,7 +14019,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Strawberry Cheesecake Smoothie Bowl",
@@ -14173,7 +14152,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Parm Zucchini Boats",
@@ -14197,7 +14176,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Hawaiian Pork Chops",
@@ -14217,7 +14196,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Enchiladas Verdes",
@@ -14316,7 +14295,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "High in Fiber", "High in Protein"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tomato Cobbler",
@@ -14340,7 +14319,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cinnamon Baked Orchard Fruit with Caramel Oat Clusters",
@@ -14380,6 +14359,10 @@
     },
     {
         "title": "Vegan Protein Pesto",
+        "image": {
+            "src": "vegan-protein-pesto.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sauces, Dressings, & Seasonings"],
         "container": [
             {
@@ -14402,7 +14385,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Snickerdoodles",
@@ -14418,7 +14401,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pumpkin Bread",
@@ -14434,11 +14417,11 @@
             }
         ],
         "dietary": ["Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Slow Cooker Split Pea Soup",
-        "category": ["Soups"],
+        "category": ["Soups", "Crockpot"],
         "container": [
             {
                 "color": "Green",
@@ -14454,7 +14437,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Pot Pie",
@@ -14482,7 +14465,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Orecchiette",
@@ -14500,7 +14483,7 @@
             }
         ],
         "dietary": ["Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Bavarian Beer Cheese Dip",
@@ -14512,10 +14495,14 @@
             }
         ],
         "dietary": ["Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Holiday Sangria",
+        "image": {
+            "src": "holiday-sangria.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Holiday", "Cocktails"],
         "container": [
             {
@@ -14524,7 +14511,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Minestrone",
@@ -14644,7 +14631,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian", "Vegan"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Holiday Poached Turkey",
@@ -14656,10 +14643,14 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Whole Roasted Cauliflower with Lemon Parmesan",
+        "image": {
+            "src": "whole-roasted-cauliflower-with-lemon-parmesan.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -14672,7 +14663,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Quinoa with Winter Veggies",
@@ -14706,6 +14697,1456 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Everything Bagel Breakfast Skillet",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Peanut Butter Hazelnut Cookie Sandwiches",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Cannoli Bites",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Breakfast Shepherd's Pie",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Creme Brulee",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Calabrese Christmas Lasagna",
+        "category": ["Entrees", "Holiday"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Gluten-Free Pull-Apart Dinner Rolls",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Sesame Peanut Brussels Sprouts",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Dragon's Breath Shakeology",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["High in Fiber", "High in Protein", "Quick & Easy"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/dragon-fruit-shakeology"
+    },
+    {
+        "title": "Creamy Coconut Pumpkin Spice Shakeology",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/creamy-coconut-pumpkin-spice-shakeology"
+    },
+    {
+        "title": "Bananas Foster Shakeology",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["High in Fiber", "High in Protein", "Quick & Easy", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/bananas-foster-shakeology"
+    },
+    {
+        "title": "Ayurveda Shakeology",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/ayurveda-vanilla-shakeology"
+    },
+    {
+        "title": "Peppermint Mocha Shakeology Protein Bites",
+        "category": ["Shakeology", "Sides & Snacks"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Non-Dairy", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-protein-balls"
+    },
+    {
+        "title": "Peppermint Mocha Shakeology Mini Vegan Cheesecakes",
+        "category": ["Desserts", "Shakeology"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["High in Protein", "Non-Dairy", "Vegan", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shakeology-cheesecakes"
+    },
+    {
+        "title": "Steamed Mussels",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Applesauce Cake",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Whipped Coffee White Russian",
+        "category": ["Cocktails"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Spinach Salad with Hot Bacon Dressing",
+        "category": ["Salads"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Peppermint Mocha Shakeology Pudding",
+        "category": ["Desserts", "Shakeology"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["High in Fiber", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shakeology-pudding"
+    },
+    {
+        "title": "Peppermint Mocha Shakeology Cannoli Cups",
+        "category": ["Desserts", "Shakeology"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Quick & Easy", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shakeology-cannoli-cups"
+    },
+    {
+        "title": "Strawberry Apple Pie Shakeology",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/strawberry-apple-pie-shakeology"
+    },
+    {
+        "title": "Shepherd's Pie in a Mason Jar",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["High in Fiber", "High in Protein"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/healthy-shepherds-pie"
+    },
+    {
+        "title": "Peppermint Mocha Shakeology Martini",
+        "category": ["Cocktails", "Shakeology"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["High in Protein", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shakeology-martini"
+    },
+    {
+        "title": "Peppermint Mocha Shakeology Smoothie",
+        "category": ["Shakeology"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shake"
+    },
+    {
+        "title": "Jelly Treats",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Burger",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Matcha Muffins",
+        "image": {
+            "src": "vegan-matcha-muffins.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Beef Macaroni (Hamburger Helper)",
+        "image": {
+            "src": "beef-macaroni.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Energy Bars",
+        "image": {
+            "src": "energy-bars.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": ["Sides & Snacks", "Shakeology"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan"],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/homemade-energy-bars"
+    },
+    {
+        "title": "Potato Leek Soup",
+        "image": {
+            "src": "potato-leek-soup.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": ["Soups"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Potato Souffle",
+        "category": ["Breakfast", "Sides & Snacks"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Healthier General Tso's Chicken",
+        "category": ["Entrees"],
+        "image": {
+            "src": "general-tsos-chicken.jpg",
+            "author": "Meagan Walker"
+        },
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Blog"],
+        "link": "https://www.beachbodyondemand.com/blog/healthier-general-tsos-chicken"
+    },
+    {
+        "title": "Veggie Frittata Breakfast Sandwich",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Coconut Macaroons",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Vegan Lentil Kabobs",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "2 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Chicken Paprikash",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Shrimp Succotash",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Lamb Rogan Josh",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "Insta Pot Vegan Masoor Dal",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Etouffee",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Mapo Tofu",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Superfood Seafood Cakes",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Matcha Lime Panna Cotta",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Cranberry Orange Biscotti",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Lemon Blackbery Punch",
+        "category": ["Cocktails"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Baked Feta with Tomato and Olives",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Springtime Fish Pie",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Healthier Chicken Cassoulet",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Fig and Olive Tapenade",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Spring Pea Pasta",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Maple and Brown Sugar Ham",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Watermelon Tuna Sashimi",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Cream Cheese Toast",
+        "category": ["Breakfast", "Sides & Snacks"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Cream Cheese",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Fig Bars",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Spring Veggie Soup",
+        "category": ["Soups"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Maple Glazed Salmon",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Jicama Hash Browns",
+        "category": ["Breakfast", "Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Mother's Day Crepe Cakes",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Chicken Broccoli Pita",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Whole Grilled Trout with Tomato Salad",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Lunchbox Tortilla Pocket",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Italian Ice",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "French Dressing",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Insta Pot Sode De Res",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Faux-Tato Chips",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
         "source": ["Monthly Group"]
     }
 ]
