@@ -1,4 +1,5 @@
 import React from 'react';
+import { connect } from 'react-redux';
 import data from '../data/recipes.json';
 import RecipeCard from './RecipeCard';
 import Pagination from './Pagination';
@@ -16,21 +17,18 @@ class RecipeList extends React.Component {
 
     renderList() {
         const searchTerm = this.props.onSearchChange;
-        const params = this.props.onFilterChange;
+        const filters = this.props.filters;
         
         // filtering
         let results = data.sort((a, b) => a.title > b.title ? 1 : -1 );
         if ( searchTerm ) {
             results = results.filter(recipe => recipe.title.toLowerCase().includes(`${searchTerm.toLowerCase()}`));
         }
-        if ( params ) {
-            Object.keys(params.filters).map(key => {
-                let values = params.filters[key];
+        if ( filters ) {
+            Object.keys(filters).map(type => {
+                let values = this.props.filters[type];
                 if ( values.length) {
-                    /*if ( key == "category" ) {
-                        results = results.filter(recipe => values.some(el => el === recipe.category));
-                    } else */
-                    if ( key == "container") {
+                    if ( type == "container") {
                         values.map(item => { 
                             results = results.filter(
                                 recipe => {
@@ -39,10 +37,10 @@ class RecipeList extends React.Component {
                                 }
                             )
                         });
-                    } else if ( key == "source" ) {
+                    } else if ( type == "source" ) {
                         results = results.filter(recipe => recipe.source.some(el => values.includes(el)));
                     } else {
-                        values.map(item => { results = results.filter(recipe => recipe[key].includes(`${item}`)) });
+                        values.map(item => { results = results.filter(recipe => recipe[type].includes(`${item}`)) });
                     }
                 }
             });
@@ -54,8 +52,9 @@ class RecipeList extends React.Component {
         const indexOfFirstPost = indexOfLastPost - postsPerPage;
 
         const filteredRecipes = results.map((recipe,i) => (<RecipeCard key={i} recipe={recipe}/>)).slice(indexOfFirstPost, indexOfLastPost);
+        const hasFilters = Object.keys(filters).filter(type => filters[type].length > 0).length > 0;
 
-        if ( searchTerm || params ) {
+        if ( searchTerm || hasFilters ) {
             if ( filteredRecipes.length ) {
                 return (
                     <div id="results">
@@ -81,4 +80,8 @@ class RecipeList extends React.Component {
     render() { return this.renderList(); }
 }
 
-export default RecipeList;
+const mapStateToProps = (state) => {
+    return { filters: state.activeFilters };
+};
+
+export default connect(mapStateToProps)(RecipeList);
