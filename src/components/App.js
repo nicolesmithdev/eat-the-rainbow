@@ -7,11 +7,15 @@ import FilterList from './FilterList';
 class App extends React.Component {
     state = { filters: null, displayFilters: false };
 
+    reset = () => {
+        this.setState({ filters: null });
+    }
+
     onSearchChange = (term) => {
         this.setState({ searchTerm: term });
     }
 
-    onFilterChange = (filters) => {        
+    onFilterChange = (filters) => {
         this.setState({ filters: { filters }, currentPage: 1 });
     }
 
@@ -29,25 +33,34 @@ class App extends React.Component {
     
     render() {      
         return (
-            <div className="container wrap">
-                <FilterList 
-                    onChange={this.onFilterChange} 
-                    onToggleFilters={this.state.displayFilters}
-                    resetPagination={this.resetPagination}
-                />
-                <div className="content">
-                    <SearchBar 
-                        onChange={this.onSearchChange}
-                        onToggleFilters={this.onToggleFilters}
+            <div id="page2">
+                <header id="header">
+                    <div className="wrap">
+                        <h1 onClick={this.reset}>Eat The Rainbow</h1>
+                    </div>
+                </header>
+                <div className="container wrap">
+                    <FilterList 
+                        onChange={this.onFilterChange} 
+                        onToggleFilters={this.state.displayFilters}
                         resetPagination={this.resetPagination}
+                        onRandom={this.onRandom}
                     />
-                    <RecipeList 
-                        onSearchChange={this.state.searchTerm}
-                        onFilterChange={this.state.filters}
-                        resetPagination={this.state.currentPage}
-                        onPaginate={this.resetPagination}
-                        onPageClick={this.onPageClick}
-                    />
+                    <div className="content">
+                        <SearchBar 
+                            onChange={this.onSearchChange}
+                            onToggleFilters={this.onToggleFilters}
+                            resetPagination={this.resetPagination}
+                        />
+                        <RecipeList 
+                            onSearchChange={this.state.searchTerm}
+                            onFilterChange={this.state.filters}
+                            resetPagination={this.state.currentPage}
+                            onPaginate={this.resetPagination}
+                            onPageClick={this.onPageClick}
+                            onRandom={this.onRandom}
+                        />
+                    </div>
                 </div>
             </div>
         );
