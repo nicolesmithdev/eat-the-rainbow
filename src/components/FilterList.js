@@ -25,21 +25,14 @@ class FilterList extends React.Component {
         const name = e.target.value.split('.')[0].toLowerCase();  // i.e. container or category
         const value = e.target.value.split('.')[1];   // i.e. blue, breakfast, etc.
 
-        // this.setState(
-        //     { filters: newValue, currentPage: 1 },
-        //     () => {
-        //         this.props.onChange(this.state.filters);
-        //         this.props.resetPagination(1);
-        //     } // callback function
-        // );
         let action = e.target.checked ? 'addFilter' : 'removeFilter';
         this.props[action]({ name, value });
     }
 
     renderFilters() {
-        return this.props.filters.map(({ name, values }) => {
+        return this.props.filters.map(({ name, values }, x) => {
             return (
-                <div className={`filter ${name.toLowerCase()}`}>
+                <div className={`filter ${name.toLowerCase()}`} key={x}>
                     <h3>{name}</h3>
                     <ul>
                         {values.map((value, i) => {
@@ -52,7 +45,7 @@ class FilterList extends React.Component {
                             const displayCount = count > 0 ? <span className="count">({count})</span> : '';
 
                             return (
-                                <li>
+                                <li key={i}>
                                     <input type="checkbox" id={value} value={`${name}.${value}`} onChange={this.onFilterChange}/>
                                     <label htmlFor={value}>{value}</label>
                                     {displayCount}

@@ -8,13 +8,6 @@ import Welcome from './Welcome';
 class RecipeList extends React.Component {
     state = { recipes: [] };
 
-    componentDidMount() {
-        this.setState(
-            { currentPage: 1 },
-            () => { this.props.onPaginate(this.state.currentPage); }
-        );
-    }
-
     renderList() {
         const searchTerm = this.props.onSearchChange;
         const filters = this.props.filters;
@@ -48,7 +41,7 @@ class RecipeList extends React.Component {
 
         // pagination
         const postsPerPage = 10;
-        const indexOfLastPost = this.props.resetPagination * postsPerPage;
+        const indexOfLastPost = this.props.currentPage * postsPerPage;
         const indexOfFirstPost = indexOfLastPost - postsPerPage;
 
         const filteredRecipes = results.map((recipe,i) => (<RecipeCard key={i} recipe={recipe}/>)).slice(indexOfFirstPost, indexOfLastPost);
@@ -61,11 +54,8 @@ class RecipeList extends React.Component {
                         <p>Showing {results.length} recipes</p>
                         {filteredRecipes}
                         <Pagination 
-                            currentPage={this.state.currentPage}
                             numResults={results.length} 
                             postsPerPage={postsPerPage} 
-                            onPageClick={this.props.onPageClick}
-                            resetPagination={this.props.resetPagination}
                         />
                     </div>
                 );
@@ -81,7 +71,10 @@ class RecipeList extends React.Component {
 }
 
 const mapStateToProps = (state) => {
-    return { filters: state.activeFilters };
+    return {
+        filters: state.activeFilters,
+        currentPage: state.currentPage
+    };
 };
 
 export default connect(mapStateToProps)(RecipeList);

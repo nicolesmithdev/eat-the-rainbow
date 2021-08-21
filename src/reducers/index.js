@@ -1,6 +1,6 @@
 import { combineReducers } from 'redux';
 
-const filtersReducer = () => {
+const filters = () => {
     return [
         {
             name: 'Category',
@@ -21,7 +21,7 @@ const filtersReducer = () => {
     ];
 };
 
-const activeFiltersReducer = (activeFilters = { category: [], container: [], dietary: [], source: [] }, action) => {
+const activeFilters = (activeFilters = { category: [], container: [], dietary: [], source: [] }, action) => {
     switch(action.type) {
         case "ADD_FILTER":
             return {
@@ -36,7 +36,17 @@ const activeFiltersReducer = (activeFilters = { category: [], container: [], die
     }
 };
 
+const currentPage= (currentPage = 1, action) => {
+    switch(action.type) {
+        case "CHANGE_PAGE":
+            return action.payload;
+        default:
+            return 1;
+    }
+};
+
 export default combineReducers({
-    filters: filtersReducer,
-    activeFilters: activeFiltersReducer
+    filters,
+    activeFilters,
+    currentPage
 });
