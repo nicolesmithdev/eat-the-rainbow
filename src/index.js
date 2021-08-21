@@ -1,8 +1,11 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
+import { Provider } from 'react-redux';
+import { createStore } from 'redux';
 import ReactGA from 'react-ga';
 
 import App from './components/App';
+import reducers from './reducers';
 import './index.scss';
 
 if (process.env.NODE_ENV === 'production') {
@@ -11,4 +14,14 @@ if (process.env.NODE_ENV === 'production') {
     ReactGA.pageview(window.location.pathname + window.location.search);
 }
 
-ReactDOM.render(<App />, document.querySelector('#app'));
+const store = createStore(
+    reducers,
+    window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
+);
+
+ReactDOM.render(
+    <Provider store={store}>
+        <App />
+    </Provider>,
+    document.querySelector('#app')
+);
