@@ -13,3 +13,9 @@ This is my first and on-going React project. Eventually I would like to implemen
 1. Improve pagination or infinite scrolling
 2. Add user rating / "Most Popular"
 3. Sort by recently added
+
+## Changelog
+
+August 21, 2021
+
+* Installed Redux and React Redux to better manage state and converted the filters to start.
