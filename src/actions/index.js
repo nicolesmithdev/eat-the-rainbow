@@ -12,6 +12,13 @@ export const removeFilter = (filter) => {
     };
 };
 
+export const toggleFilters = (value) => {
+    return {
+        type: 'TOGGLE_FILTERS',
+        payload: value
+    };
+};
+
 export const changePage = (pageNumber) => {
     return {
         type: 'CHANGE_PAGE',

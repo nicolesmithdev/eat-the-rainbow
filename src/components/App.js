@@ -15,10 +15,6 @@ class App extends React.Component {
     onSearchChange = (term) => {
         this.setState({ searchTerm: term });
     }
-
-    onToggleFilters = (toggle) => {
-        this.setState({ displayFilters: toggle });
-    }
     
     render() {      
         return (

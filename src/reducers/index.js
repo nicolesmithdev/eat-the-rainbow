@@ -36,6 +36,10 @@ const activeFilters = (activeFilters = { category: [], container: [], dietary: [
     }
 };
 
+const hideFilters = (hideFilters = false, action) => {
+    return action.type === "TOGGLE_FILTERS" ? action.payload : hideFilters;
+};
+
 const currentPage= (currentPage = 1, action) => {
     switch(action.type) {
         case "CHANGE_PAGE":
@@ -48,5 +52,6 @@ const currentPage= (currentPage = 1, action) => {
 export default combineReducers({
     filters,
     activeFilters,
+    hideFilters,
     currentPage
 });

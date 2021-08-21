@@ -1,4 +1,6 @@
 import React from 'react';
+import { connect } from 'react-redux';
+import { toggleFilters } from '../actions';
 
 class SearchBar extends React.Component {
     state = { searchTerm: '', displayFilters: false };
@@ -13,17 +15,10 @@ class SearchBar extends React.Component {
         );
     }
 
-    toggleFilters = (e) => { 
-        this.setState(
-            { displayFilters: this.state.displayFilters === true ? false : true },
-            () => { this.props.onToggleFilters(this.state.displayFilters); } // callback function
-        );
-    }
-
     render() {
         return (
             <div id="search-bar">
-                <i className="icon filter" onClick={this.toggleFilters} />
+                <i className="icon filter" onClick={() => this.props.toggleFilters(!this.props.hideFilters)} />
                 <form>
                     <input 
                         type="text"
@@ -37,4 +32,10 @@ class SearchBar extends React.Component {
     }
 }
 
-export default SearchBar;
+const mapStateToProps = (state) => {
+    return {
+        hideFilters: state.hideFilters
+    };
+};
+
+export default connect(mapStateToProps, { toggleFilters })(SearchBar);

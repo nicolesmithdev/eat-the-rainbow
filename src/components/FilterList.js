@@ -1,13 +1,9 @@
 import React from 'react';
 import { connect } from 'react-redux';
 import recipes from '../data/recipes.json';
-import { addFilter, removeFilter } from '../actions';
+import { addFilter, removeFilter, toggleFilters } from '../actions';
 
 class FilterList extends React.Component {
-    state = {
-        hideFilters: ''
-    };
-
     componentDidMount() {
         window.addEventListener("resize", this.resize.bind(this));
         this.resize();
@@ -18,7 +14,7 @@ class FilterList extends React.Component {
     }
 
     resize() {
-        this.setState({ hideFilters: window.innerWidth <= 992 });
+        this.props.toggleFilters(window.innerWidth <= 992);
     }
 
     onFilterChange = (e) => {
@@ -61,7 +57,7 @@ class FilterList extends React.Component {
     render() {
         return (
             <div id="sidebar">
-                <div id="filters" className={this.props.onToggleFilters === true ? 'open' : 'hidden'}>
+                <div id="filters" className={this.props.hideFilters === true ? 'hidden' : 'open'}>
                     {this.renderFilters()}
                 </div>
             </div>
@@ -70,7 +66,10 @@ class FilterList extends React.Component {
 }
 
 const mapStateToProps = (state) => {
-    return { filters: state.filters };
+    return {
+        filters: state.filters,
+        hideFilters: state.hideFilters
+    };
 };
 
-export default connect(mapStateToProps, { addFilter, removeFilter })(FilterList);
+export default connect(mapStateToProps, { addFilter, removeFilter, toggleFilters })(FilterList);
