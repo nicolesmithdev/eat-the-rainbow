@@ -1,26 +1,24 @@
 import React from 'react';
+import { Router, Route, Switch, Link } from 'react-router-dom';
+import history from '../history';
 
-import RecipeList from './RecipeList';
-import SearchBar from './SearchBar';
-import FilterList from './FilterList';
-import Pagination from './Pagination';
+// Pages
+import Recipes from './pages/Recipes';
 
 class App extends React.Component {    
     render() {      
         return (
             <div id="page2">
-                <header id="header">
-                    <div className="wrap">
-                        <h1>Eat The Rainbow</h1>
-                    </div>
-                </header>
-                <div className="container wrap">
-                    <FilterList />
-                    <div className="content">
-                        <SearchBar />
-                        <RecipeList />
-                    </div>
-                </div>
+                <Router history={history}>
+                    <header id="header">
+                        <div className="wrap">
+                            <h1><Link to="/">Eat The Rainbow</Link></h1>
+                        </div>
+                    </header>                    
+                    <Switch>
+                        <Route path="/" exact component={Recipes} />
+                    </Switch>                    
+                </Router>
             </div>
         );
     }
