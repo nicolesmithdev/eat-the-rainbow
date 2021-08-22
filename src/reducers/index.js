@@ -40,7 +40,7 @@ const hideFilters = (hideFilters = false, action) => {
     return action.type === "TOGGLE_FILTERS" ? action.payload : hideFilters;
 };
 
-const currentPage= (currentPage = 1, action) => {
+const currentPage = (currentPage = 1, action) => {
     switch(action.type) {
         case "CHANGE_PAGE":
             return action.payload;
@@ -49,9 +49,14 @@ const currentPage= (currentPage = 1, action) => {
     }
 };
 
+const searchTerm = (searchTerm = '', action) => {
+    return action.type === "SEARCH" ? action.payload : searchTerm;
+};
+
 export default combineReducers({
     filters,
     activeFilters,
     hideFilters,
-    currentPage
+    currentPage,
+    searchTerm
 });

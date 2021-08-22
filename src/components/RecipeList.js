@@ -6,10 +6,8 @@ import Pagination from './Pagination';
 import Welcome from './Welcome';
 
 class RecipeList extends React.Component {
-    state = { recipes: [] };
-
     renderList() {
-        const searchTerm = this.props.onSearchChange;
+        const searchTerm = this.props.searchTerm;
         const filters = this.props.filters;
         
         // filtering
@@ -73,7 +71,8 @@ class RecipeList extends React.Component {
 const mapStateToProps = (state) => {
     return {
         filters: state.activeFilters,
-        currentPage: state.currentPage
+        currentPage: state.currentPage,
+        searchTerm: state.searchTerm
     };
 };
 

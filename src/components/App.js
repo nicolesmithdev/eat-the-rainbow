@@ -5,17 +5,7 @@ import SearchBar from './SearchBar';
 import FilterList from './FilterList';
 import Pagination from './Pagination';
 
-class App extends React.Component {
-    state = { filters: null, displayFilters: false };
-
-    reset = () => {
-        this.setState({ filters: null });
-    }
-
-    onSearchChange = (term) => {
-        this.setState({ searchTerm: term });
-    }
-    
+class App extends React.Component {    
     render() {      
         return (
             <div id="page2">

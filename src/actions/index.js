@@ -1,27 +1,34 @@
+export const search = (term) => {
+    return {
+        type: "SEARCH",
+        payload: term
+    };
+};
+
 export const addFilter = (filter) => {
     return {
-        type: 'ADD_FILTER',
+        type: "ADD_FILTER",
         payload: filter
     };
 };
 
 export const removeFilter = (filter) => {
     return {
-        type: 'REMOVE_FILTER',
+        type: "REMOVE_FILTER",
         payload: filter
     };
 };
 
 export const toggleFilters = (value) => {
     return {
-        type: 'TOGGLE_FILTERS',
+        type: "TOGGLE_FILTERS",
         payload: value
     };
 };
 
 export const changePage = (pageNumber) => {
     return {
-        type: 'CHANGE_PAGE',
+        type: "CHANGE_PAGE",
         payload: pageNumber
     };
 };

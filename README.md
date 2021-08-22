@@ -18,4 +18,4 @@ This is my first and on-going React project. Eventually I would like to implemen
 
 August 21, 2021
 
-* Installed Redux and React Redux to better manage state and converted the filters to start.
+* Installed Redux and React Redux to better manage state.
