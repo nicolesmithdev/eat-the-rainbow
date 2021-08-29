@@ -1,0 +1,68 @@
+[
+    {
+        "title": "Tofu Chili",
+        "image": {
+            "src": "tofu-chili.jpg",
+            "author": "Meagan Walker"
+        },
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
+    },
+    {
+        "title": "French Toast Muffins",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
+    }
+]

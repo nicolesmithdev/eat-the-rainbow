@@ -5497,6 +5497,10 @@
     },
     {
         "title": "Brown Rice Porridge",
+        "image": {
+            "src": "brown-rice-porridge.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Breakfast"],
         "container": [
             {
@@ -9689,7 +9693,7 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": ["Gluten-Free, Vegetarian"],
+        "dietary": ["Gluten-Free", "Vegetarian"],
         "source": ["Cooking Show"]
     },
     {
@@ -11192,6 +11196,10 @@
     },
     {
         "title": "Tofu Scramble Burrito",
+        "image": {
+            "src": "tofu-scramble-burrito.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Breakfast"],
         "container": [
             {
@@ -15212,6 +15220,10 @@
     },
     {
         "title": "Vegan Burger",
+        "image": {
+            "src": "vegan-burger.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -15554,6 +15566,10 @@
     },
     {
         "title": "Insta Pot Vegan Masoor Dal",
+        "image": {
+            "src": "insta-pot-vegan-masoor-dal.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -16068,7 +16084,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "French Dressing",
@@ -16080,10 +16096,10 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
-        "title": "Insta Pot Sode De Res",
+        "title": "Insta Pot Sopa De Res",
         "category": ["Entrees"],
         "container": [
             {
@@ -16104,7 +16120,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Faux-Tato Chips",
@@ -16120,7 +16136,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Superfood Crackers",
@@ -16440,6 +16456,106 @@
         "container_vegan": [
             {
                 "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Honey Oat Cluster Cereal",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Nut Milk",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "vegan_container": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Insta Pot Jambalaya",
+        "category": ["Crockpot", "Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Chana Chickpea Masala",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "vegan_container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
                 "count": 1
             }
         ],
