@@ -81,9 +81,9 @@
                 "color": "Teaspoon",
                 "count": "1/2"
             }
-         ],
-         "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
-         "source": ["Cooking Show"]
+        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Meatloaf",
@@ -888,7 +888,13 @@
                 "count": "1/2"
             }
         ],
-        "dietary": ["Gluten-Free", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "Gluten-Free",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Cooking Show"]
     },
     {
@@ -1036,15 +1042,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Creamy Tomato Basil Soup",
@@ -1063,14 +1062,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Easy Chicken Noodle Soup",
@@ -1093,13 +1086,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "French Onion Soup",
@@ -1122,13 +1110,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Italian Wedding Soup",
@@ -1155,13 +1138,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Paleo"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Mexican Chicken Tortilla Soup",
@@ -1184,13 +1162,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Minestrone Soup",
@@ -1209,14 +1182,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Caesar Salad",
@@ -1243,12 +1210,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Calabrese Salad",
@@ -1267,13 +1230,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Creamy Chicken Salad",
@@ -1300,13 +1258,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Edamame Salad",
@@ -1329,13 +1282,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Healthified Cobb Salad",
@@ -1358,12 +1306,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "On-The-Go Salad",
@@ -1390,13 +1334,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Quinoa and Black Bean Salad",
@@ -1415,16 +1354,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Red Fruit Salad",
@@ -1447,13 +1378,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Steak Salad",
@@ -1476,12 +1402,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Toasted Kale Salad with Lemon Dijon Salad Dressing",
@@ -1508,13 +1430,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Tuna Salad",
@@ -1533,13 +1450,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Asian Vinaigrette",
@@ -1550,16 +1462,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Lemon Dijon Salad Dressing",
@@ -1570,16 +1474,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Blueberry Jam",
@@ -1602,13 +1498,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Caesar Salad Dressing",
@@ -1619,12 +1510,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Grandma's Tomato Sauce",
@@ -1639,15 +1526,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Healthier Hollandaise Sauce",
@@ -1658,13 +1538,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Homemade Salsa",
@@ -1675,17 +1550,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Honey Mustard Salad Dressing",
@@ -1696,14 +1562,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Lemon Garlic Sauce",
@@ -1714,16 +1574,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Pepper Jam",
@@ -1758,16 +1610,10 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
-    },{
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
+    },
+    {
         "title": "Banana Oat Pancakes",
         "category": ["Breakfast"],
         "container": [
@@ -1780,15 +1626,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Chocolate Protein Crepes",
@@ -1803,12 +1642,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Healthy French Toast",
@@ -1831,12 +1666,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Oven-Fried Chicken and Gluten-Free Waffles",
@@ -1863,13 +1694,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Waffles",
@@ -1884,12 +1710,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Pancakes with Blueberry Jam",
@@ -1904,13 +1726,8 @@
                 "count": "2 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Peanut Butter and Chocolate Steel-Cut Oatmeal",
@@ -1929,13 +1746,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Poached Eggs with Asparagus Toast",
@@ -1958,14 +1770,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Portabello Mushroom and Goat Cheese Omelet",
@@ -1988,15 +1794,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Stuffed Crepe with Healthier Hollandaise Sauce",
@@ -2019,12 +1818,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Swiss Oatmeal",
@@ -2047,14 +1842,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Vanilla Protein Pancakes with Pears and Cinnamon",
@@ -2077,12 +1866,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Vegetable Egg Cups",
@@ -2093,13 +1878,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Calabrese Chicken",
@@ -2122,14 +1902,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Chicken Parmesan",
@@ -2156,13 +1930,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Creamy Chicken Salad Wrap",
@@ -2193,12 +1962,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Easy Pizza",
@@ -2217,12 +1982,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Frittata",
@@ -2245,13 +2006,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Mexican Taco Lettuce Cups",
@@ -2278,12 +2034,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Open Meatball Sub",
@@ -2310,12 +2062,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Seared Ahi Thuna Rice Bowl",
@@ -2334,12 +2082,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Shrimp Panzanella",
@@ -2362,12 +2106,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Tuna Salad Sandwich",
@@ -2390,13 +2130,10 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
-    },{
+        "dietary": [""],
+        "source": ["Cookbook Vol 1"]
+    },
+    {
         "title": "Beef Stew with Sweet Potatoes",
         "category": ["Entrees"],
         "container": [
@@ -2413,13 +2150,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Chicken Stuffed Bell Peppers",
@@ -2446,14 +2178,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Cioppino",
@@ -2468,13 +2194,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Eggplant Turkey Burger",
@@ -2493,12 +2214,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Italian Meatballs",
@@ -2517,14 +2234,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Paleo", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Macaroni and Cheese with Broccoli and Chicken",
@@ -2551,13 +2262,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Mexican Taco Meat",
@@ -2576,15 +2282,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Pineapple Chicken Skewers",
@@ -2607,14 +2306,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Baked Trout",
@@ -2637,13 +2330,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Seared Ahi Tuna with Pumpkin Seed Sauce and Veggies",
@@ -2662,13 +2350,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Steak Fajitas",
@@ -2691,14 +2374,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Sweet Potato Ricotta Gnudi in Pumpkin Sauce",
@@ -2717,14 +2394,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Turkey Chili",
@@ -2747,14 +2418,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Turkey Sloppy Joes",
@@ -2777,14 +2442,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Cucumber Hummus Roll-ups",
@@ -2799,16 +2458,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Potato Sides",
@@ -2823,15 +2474,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Roased Acorn Squash",
@@ -2846,13 +2490,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Spicy Cauliflower Bites",
@@ -2867,15 +2506,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Zoodles (Zucchini Pasta)",
@@ -2890,13 +2522,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Zucchini Bake",
@@ -2915,13 +2542,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Almond Chocolate Protein Squares",
@@ -2940,12 +2562,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Banana Apple Muffins",
@@ -2960,15 +2578,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Homemade Granola",
@@ -2991,14 +2602,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Pumpkin Muffins with Maple Cream Cheese",
@@ -3017,13 +2622,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Pumpkin Pie Energy Bites",
@@ -3038,16 +2638,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Spiced Nuts",
@@ -3058,15 +2650,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Sweet Potato Chips",
@@ -3081,15 +2666,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Zucchini Chips",
@@ -3104,15 +2682,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Almond Milk Panna Cotta with Blueberry Jam and Italian Meringue",
@@ -3123,14 +2694,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Chocolate Chia Pudding with Strawberries",
@@ -3149,16 +2714,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Chocolate Chip Cookies",
@@ -3169,13 +2726,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Chunky Monkey Ice Cream",
@@ -3190,14 +2742,8 @@
                 "count": "3 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Flourless Chocolate Chickpea Brownies",
@@ -3212,14 +2758,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Peanutty Peanut Butter Squares",
@@ -3234,14 +2774,8 @@
                 "count": "2 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Raspberry-Filled Cookie Bites",
@@ -3256,14 +2790,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Sciadone (Italian Easter Pie)",
@@ -3282,12 +2810,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Strawberry-Banana Ice Cream",
@@ -3298,15 +2822,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Vanilla Cake with Chocolate Frosting",
@@ -3325,14 +2842,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Skinny Champagne Berry Cocktail",
@@ -3343,13 +2854,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Skinny Margarita",
@@ -3360,12 +2866,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Skinny Pina Colada",
@@ -3376,13 +2878,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Skinny Coconut Berry Refresher",
@@ -3393,13 +2890,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Skinny Cucumber Cocktail",
@@ -3410,15 +2902,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1", "Cooking Show"]
     },
     {
         "title": "Skinny Cosmo",
@@ -3433,12 +2918,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Banana Peanut Butter Bliss",
@@ -3457,13 +2938,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Strawberry-Watermelon Surprise",
@@ -3478,12 +2954,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Tropical Bliss",
@@ -3498,12 +2970,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Blueberry Basil Delight",
@@ -3518,12 +2986,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 1"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 1"]
     },
     {
         "title": "Quinoa Breakfast Bowl",
@@ -3550,13 +3014,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Carrot Cake Baked Oatmeal",
@@ -3567,10 +3026,7 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
         "source": ["Blog", "Cookbook Vol 2", "Cooking Show"],
         "link": "https://www.beachbodyondemand.com/blog/carrot-cake-baked-oatmeal"
     },
@@ -3591,10 +3047,7 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
         "source": ["Blog", "Cookbook Vol 2"],
         "link": "https://www.beachbodyondemand.com/blog/fixate-spaghetti-squash-fritters"
     },
@@ -3627,14 +3080,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2", "Cooking Show"]
     },
     {
         "title": "Huevos Rancheros Tostadas",
@@ -3661,13 +3108,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Paleo Pancakes",
@@ -3686,14 +3128,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Smoked Salmon Sandwich",
@@ -3716,12 +3152,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Sausage and Egg Sandwich",
@@ -3748,12 +3180,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "3-Bean and Ham Soup",
@@ -3776,12 +3204,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Miso Soup",
@@ -3796,13 +3220,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Super Greens Soup",
@@ -3817,15 +3236,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Cauliflower and Roast Garlic Bisque",
@@ -3844,13 +3256,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Gazpacho",
@@ -3865,8 +3272,8 @@
                 "count": 1
             }
         ],
-        "dietary": [ "Gluten-Free", "Paleo", "Vegan", "Vegetarian" ],
-        "source": [ "Cookbook Vol 2" ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Warm Mushroom Salad",
@@ -3881,13 +3288,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Broccoli Salad with Creamy Maple-Dijon Dressing",
@@ -3914,12 +3316,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Mediterranean Salad",
@@ -3942,13 +3340,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Brussel Sprouts Salad",
@@ -3979,13 +3372,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Antipasto Salad",
@@ -4008,12 +3396,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Roasted Veggie Salad",
@@ -4028,15 +3412,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Winter Fruit Salad",
@@ -4051,15 +3428,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Cucumber Shrimp Canapes",
@@ -4078,13 +3448,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Marsala Tomato Sliders",
@@ -4107,12 +3472,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Tilapia Tacos",
@@ -4135,12 +3496,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Hash Egg Cups",
@@ -4151,14 +3508,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Salmon Salad",
@@ -4177,13 +3528,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Kafta Pita",
@@ -4202,12 +3548,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Shrimp Burrito",
@@ -4234,12 +3576,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Open-Faced Roast Beef Sandwich",
@@ -4266,12 +3604,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Balsamic Chicken Salad",
@@ -4294,13 +3628,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Lentil Falafel Bowl",
@@ -4323,13 +3652,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Eggplant and Chickpea Wraps",
@@ -4352,12 +3676,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Swedish Meatball Stroganoff",
@@ -4380,12 +3700,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Broccoli Bites",
@@ -4400,13 +3716,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Crab Cakes",
@@ -4417,12 +3728,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Spring Rolls",
@@ -4445,12 +3752,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Swedish Meatballs",
@@ -4465,12 +3768,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Fried Green Tomatoes with Vegan Mayo",
@@ -4489,13 +3788,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Mexican Rice",
@@ -4506,12 +3800,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Roast Cabbage Wedges with Cotija Dressing",
@@ -4530,12 +3820,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Red Potato Mash",
@@ -4550,13 +3836,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Cauliflower Fried Rice",
@@ -4579,13 +3860,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Maple Rosemary English Muffins",
@@ -4604,13 +3880,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Chicken Marsala",
@@ -4633,12 +3904,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Singapore Noodles",
@@ -4661,12 +3928,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Kafta Kabobs",
@@ -4677,13 +3940,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Black Pepper Shrimp",
@@ -4698,13 +3956,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Stuffed Tilapia",
@@ -4723,13 +3976,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Herb-Crusted Salmon",
@@ -4744,13 +3992,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Pot Roast",
@@ -4773,12 +4016,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Beef and Broccoli",
@@ -4797,9 +4036,7 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
+        "dietary": ["Gluten-Free"],
         "source": ["Blog", "Cookbook Vol 2"],
         "link": "https://www.beachbodyondemand.com/blog/fixate-beef-and-broccoli"
     },
@@ -4816,13 +4053,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Spaghetti all'Amatriciana",
@@ -4849,12 +4081,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": [""],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Granola",
@@ -4877,13 +4105,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Smoked Salmon Rolls",
@@ -4898,12 +4121,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Savory Oat Bars",
@@ -4918,13 +4137,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Vegan Red Pepper Pasta Sauce",
@@ -4943,14 +4157,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Chimichurri",
@@ -4961,15 +4169,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Tzatziki Sauce",
@@ -4980,14 +4181,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2",
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2", "Cooking Show"]
     },
     {
         "title": "Strawberry Mango Salsa",
@@ -5002,15 +4197,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Guacamole",
@@ -5021,12 +4209,7 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
         "source": ["Blog", "Cookbook Vol 2"],
         "link": "https://www.beachbodyondemand.com/blog/fixate-guacamole-recipe"
     },
@@ -5039,14 +4222,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Vegan Mayo",
@@ -5057,14 +4234,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Spicy Vegetarian Casserole",
@@ -5083,13 +4254,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Steak Medallions with Mushroom Wine Sauce",
@@ -5108,12 +4274,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Baked Cod",
@@ -5136,13 +4298,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Bacon-Wrapped Asparagus",
@@ -5157,13 +4314,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Peach Cobbler",
@@ -5182,13 +4334,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Tuscan Bean Skillet",
@@ -5215,12 +4362,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Cornbread Muffins",
@@ -5235,13 +4378,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Mini Pumpkin Pies",
@@ -5260,12 +4398,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Easy Roast Chicken",
@@ -5280,13 +4414,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Almond Milk Granita",
@@ -5297,14 +4426,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Mint Chocolate Pops",
@@ -5315,13 +4438,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Orange Cream Pops",
@@ -5336,13 +4454,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Bloody Maria",
@@ -5353,12 +4466,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cookbook Vol 2"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cookbook Vol 2"]
     },
     {
         "title": "Broccoli Crust Breakfast Pizza",
@@ -5377,14 +4486,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Balsamic Mushroom Toast",
@@ -5403,13 +4506,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Banana Pancake Bites",
@@ -5424,13 +4522,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Blueberry Maple Muffins",
@@ -5445,13 +4538,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Breakfast Squash",
@@ -5470,13 +4558,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Broccoli Crust Breakfast Pizza with Breakfast Sausage",
@@ -5495,13 +4578,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Brown Rice Porridge",
@@ -5520,15 +4598,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cashew 'n Oat Hotcakes (Pancakes)",
@@ -5547,13 +4618,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cinnamon Roll Muffins",
@@ -5572,13 +4638,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Creamy Quinoa Porridge",
@@ -5597,13 +4658,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Crepes Your Way",
@@ -5618,15 +4674,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Breakfast Sausage",
@@ -5637,14 +4686,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "French Toast with Strawberry Topping",
@@ -5667,12 +4710,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Fruit Pizza",
@@ -5695,13 +4734,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gluten-Free Waffles",
@@ -5716,14 +4750,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ham and Cheese Toast",
@@ -5742,12 +4770,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Jamaican Banana Fritters",
@@ -5762,13 +4786,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Marinated Eggs",
@@ -5779,13 +4798,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Paleo Baked Egg in Avocado",
@@ -5800,14 +4814,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Puffed Cocoa Amaranth",
@@ -5826,14 +4834,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pumpkin Muffins with Pumpkin Spice Frosting",
@@ -5873,14 +4875,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ricotta Apple and Honey Toast",
@@ -5899,12 +4895,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Savory Breakfast Muffins",
@@ -5923,12 +4915,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Savory Poached Egg (Shakshuka)",
@@ -5955,14 +4943,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Southern Spiced French Toast with Bananas and Pecans",
@@ -5989,13 +4971,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Southern Breakfast Scramble",
@@ -6022,14 +4999,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Strawberry Cream Cheese Toast",
@@ -6048,12 +5019,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sweet Potato Toast",
@@ -6064,16 +5031,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tofu Omelets",
@@ -6088,15 +5047,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vanilla Yogurt",
@@ -6107,13 +5059,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Egg Souffles",
@@ -6140,15 +5087,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Orange Cherry Muffins",
@@ -6171,14 +5111,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Veggie Quiche",
@@ -6201,14 +5135,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ahi and Avocado Quinoa Sushi",
@@ -6227,12 +5155,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Almond Crusted Chicken",
@@ -6255,14 +5179,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Amaranth Risotto",
@@ -6281,14 +5199,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Avocado Chicken Salad Wrap",
@@ -6307,12 +5219,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Bangers and Mash",
@@ -6331,12 +5239,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Caribbean Banana Curry",
@@ -6355,13 +5259,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cauliflower Tacos",
@@ -6376,16 +5275,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cheeseburger with Eggplant Bun",
@@ -6404,13 +5295,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cheesy Steak Skillet",
@@ -6437,13 +5323,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken and Veggie Quesadilla",
@@ -6470,12 +5351,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Enchiladas",
@@ -6506,12 +5383,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Mole",
@@ -6526,12 +5399,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Piccata",
@@ -6546,13 +5415,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Satay with Peanut Dipping Sauce",
@@ -6567,13 +5431,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Teriyaki Casserole",
@@ -6592,12 +5451,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Tinga Tacos",
@@ -6620,13 +5475,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chinese Meatballs",
@@ -6645,12 +5495,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Curried Chicken with Couscous",
@@ -6673,12 +5519,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Easy Pumpkin Ravioli",
@@ -6693,12 +5535,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegan"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegan"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Eggplant Cannelloni",
@@ -6717,12 +5555,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Fish and Chips",
@@ -6737,12 +5571,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Andouille Sausage",
@@ -6753,14 +5583,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Kale Nachos",
@@ -6779,14 +5603,8 @@
                 "count": "3"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Grilled Cheese",
@@ -6805,13 +5623,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gluten-Free Pepperoni Pizza",
@@ -6826,12 +5639,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Healthy Belly Bowl",
@@ -6858,14 +5667,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Herb-Crusted Beef Tenderloin",
@@ -6880,13 +5683,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Homemade Hotdogs",
@@ -6897,14 +5695,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Insta Pot White Chili",
@@ -6931,9 +5723,7 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
+        "dietary": ["Gluten-Free"],
         "source": ["Cooking Show"]
     },
     {
@@ -6961,13 +5751,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Kid-Friendly Kale Nachos",
@@ -6994,12 +5779,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Lemon Garlic Chicken with Asparagus",
@@ -7018,13 +5799,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Low-Carb Japanese Noodle Bowl",
@@ -7047,12 +5823,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mexican Taco Meat",
@@ -7071,14 +5843,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Must-Have Meatloaf",
@@ -7089,12 +5855,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "No Fuss Fish and Veggies",
@@ -7113,14 +5875,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "One Pot Bean and Sausage Stew",
@@ -7143,13 +5899,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Oven-Fried Chicken",
@@ -7168,12 +5919,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Overstuffed Turkey Club",
@@ -7192,12 +5939,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Paleo Tuna Salad Wrap",
@@ -7216,13 +5959,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pineapple Chicken Skewers",
@@ -7245,13 +5983,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pineapple Fried Rice",
@@ -7282,12 +6015,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Poke Bowl and Mango Lime Dressing",
@@ -7318,12 +6047,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pork Tenderloin with Pumpkin-Spiced Apples",
@@ -7342,13 +6067,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Quinoa Tabouli Bowl",
@@ -7371,13 +6091,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Seared Ahi Tuna",
@@ -7392,13 +6107,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sheet Pan Sausage and Peppers",
@@ -7417,14 +6127,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Shepherd's Pie",
@@ -7447,13 +6151,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Shrimp and Sausage Gumbo",
@@ -7472,13 +6171,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Shrimp and Veggie Pasta",
@@ -7497,12 +6191,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Shrimp Boil in Foil",
@@ -7525,13 +6215,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Slow Cooked Chicken in Wine Sauce",
@@ -7554,13 +6239,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Slow Cooked Poblano Pork",
@@ -7575,12 +6255,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Spaghetti Squash Boats",
@@ -7599,12 +6275,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Spinach Stuffed Chicken Breast",
@@ -7631,13 +6303,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Stuffed Pork Loin",
@@ -7656,13 +6323,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Stuffed Shells",
@@ -7689,12 +6351,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sweet Potato and Chicken Wraps",
@@ -7721,13 +6379,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tuna Melt on Roasted Portobello Mushroom",
@@ -7746,13 +6399,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Turkey Taco Lettuce Wraps",
@@ -7767,13 +6415,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Pulled Pork",
@@ -7792,15 +6435,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Sloppy Joes",
@@ -7823,15 +6459,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegetarian Portobello Sliders",
@@ -7854,12 +6483,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan French Onion Spread",
@@ -7870,14 +6495,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Wasabi Cream Cheese Salmon Burgers",
@@ -7900,13 +6519,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Whole-Grain Stuffed Turkey",
@@ -7925,12 +6539,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Zoodles Burrito Bowl",
@@ -7957,12 +6567,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Zucchini Noddle Lasagna",
@@ -7985,13 +6591,8 @@
                 "count": "3"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ahi Bruschetta",
@@ -8006,12 +6607,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Baba Ghanoush",
@@ -8026,15 +6623,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Banana Bread",
@@ -8057,13 +6647,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "BBQ Chicken Sliders",
@@ -8078,13 +6663,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Berry Quinoa Parfait",
@@ -8103,14 +6683,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Broccoli Tots",
@@ -8129,13 +6703,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Caramelized Pearl Onions",
@@ -8146,14 +6715,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Charred Leeks",
@@ -8168,16 +6731,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cheesy Cauliflower Breadsticks with Marinara",
@@ -8196,13 +6751,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chewy Whole-Grain Bars",
@@ -8221,13 +6771,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chicken Pepperoni Crumbles",
@@ -8238,13 +6783,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cloud Bread",
@@ -8255,14 +6795,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Corn Dog Muffins",
@@ -8281,12 +6815,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Creamy Cauliflower Mash",
@@ -8301,16 +6831,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Easy Egg Salad",
@@ -8325,14 +6847,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Eggplant Fries with Tzatziki Sauce",
@@ -8347,13 +6863,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Garlic Parmesan Mushrooms",
@@ -8368,13 +6879,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gluten-Free Fresh Bread",
@@ -8385,14 +6891,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Green Bean Casserole",
@@ -8415,14 +6915,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Guacamole",
@@ -8433,16 +6927,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Honey-Roasted Carrots and Beets",
@@ -8457,14 +6943,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Loaded Sweet Potato Skins",
@@ -8487,13 +6967,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Maple Glazed Brussels Sprouts",
@@ -8512,14 +6987,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mediterranean Quinoa",
@@ -8542,13 +7011,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mexican Street Corn (Elote)",
@@ -8563,14 +7027,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Miso Green Beans",
@@ -8585,16 +7043,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Peanut Butter Oatmeal Bars",
@@ -8613,14 +7063,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pina Colada Fruit and Yogurt Salad",
@@ -8639,13 +7083,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pina Colada Yogurt",
@@ -8656,14 +7095,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Protein-Packed Ranch Dip",
@@ -8674,12 +7107,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Raspberry Peach Roll-ups",
@@ -8690,14 +7119,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Red Beans and Rice",
@@ -8720,13 +7143,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sauteed Broccoli Rabe",
@@ -8741,15 +7159,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Shakeology Yogurt Pudding",
@@ -8764,13 +7175,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Simple Fruit Dip",
@@ -8785,13 +7191,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Smokey Baked Beans",
@@ -8828,8 +7229,14 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [ "Gluten-Free", "Vegan", "Vegetarian", "80 Day", "High in Fiber"],
-        "source": [ "Cooking Show" ]
+        "dietary": [
+            "Gluten-Free",
+            "Vegan",
+            "Vegetarian",
+            "80 Day",
+            "High in Fiber"
+        ],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Steamed Artichoke",
@@ -8844,14 +7251,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sweet Potato and Ham Stuffed Mushrooms",
@@ -8870,13 +7271,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sweet Potato Casserole",
@@ -8899,15 +7295,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sweet Potato Latkes",
@@ -8918,13 +7307,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tortilla Pinwheels",
@@ -8947,12 +7331,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Spinach and Artichoke Dip",
@@ -8967,16 +7347,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "White Bean Dip",
@@ -8991,14 +7363,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Whole-Grain Stuffing",
@@ -9017,12 +7383,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Zucchini Bread",
@@ -9041,13 +7403,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Black Bean Soup",
@@ -9066,15 +7423,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Bone Broth",
@@ -9085,13 +7435,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Buffalo Chicken Salad",
@@ -9114,13 +7459,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Buffalo Chicken Soup",
@@ -9147,12 +7487,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Charred Corn Salad",
@@ -9171,15 +7507,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Coconut Curry Pumpkin Soup",
@@ -9210,14 +7539,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Creamy Tomato Soup",
@@ -9232,15 +7555,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Dill Cucumber Salad",
@@ -9255,15 +7571,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Easy Pumpkin Soup",
@@ -9278,15 +7587,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Egg Drop Soup",
@@ -9301,12 +7603,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Five-Minute Sweet Potato Soup",
@@ -9325,12 +7623,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "French Lentil Soup",
@@ -9349,15 +7643,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Garden Vegetable Soup",
@@ -9372,15 +7659,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Hearty Winter Salad",
@@ -9403,13 +7683,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Orange and Fennel Salad with Kalamata Olives",
@@ -9432,15 +7707,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Roast Cauliflower and Kale Salad",
@@ -9459,13 +7727,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Spring Salad",
@@ -9484,14 +7747,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Spring Veggie Orzo Salad",
@@ -9510,12 +7767,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Summer Tomato Salad",
@@ -9530,14 +7783,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Thai Chicken Salad",
@@ -9560,12 +7807,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tuna Salad with Artichokes and Olives",
@@ -9588,14 +7831,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tuscan Bean Salad",
@@ -9614,15 +7851,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Cream of Asparagus Soup",
@@ -9637,15 +7867,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Zoodle Noodle Salad",
@@ -9668,12 +7891,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Open-Faced Tuna Melt",
@@ -9728,16 +7947,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "All-Purpose Seasoning",
@@ -9748,16 +7959,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Banana BBQ Sauce",
@@ -9772,15 +7975,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cajun Rub",
@@ -9791,16 +7987,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Cranberry Sauce",
@@ -9815,15 +8003,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Creamy Raspberry Vinaigrette",
@@ -9834,14 +8015,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "BBQ Sauce",
@@ -9852,12 +8027,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Buffalo Sauce",
@@ -9868,14 +8039,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gravy",
@@ -9886,13 +8051,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ketchup",
@@ -9903,13 +8063,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Marinara",
@@ -9924,15 +8079,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mayonnaise",
@@ -9943,15 +8091,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pesto",
@@ -9962,14 +8103,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Ranch Dressing",
@@ -9980,14 +8115,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Taco Seasoning",
@@ -9998,15 +8127,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Tartar Sauce",
@@ -10017,13 +8139,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Caramel Sauce",
@@ -10034,15 +8151,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Nacho Cheese Dip",
@@ -10053,14 +8163,8 @@
                 "count": "3"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Honey Syrup",
@@ -10071,13 +8175,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mediterranean Seasoning",
@@ -10088,16 +8187,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Orange Stir-Fry Sauce",
@@ -10108,14 +8199,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Rosemary Blue Cheese Dressing",
@@ -10126,14 +8211,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Sesame Infusion",
@@ -10144,16 +8223,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Smoky Southwestern Seasoning",
@@ -10164,16 +8235,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Strawberry Topping",
@@ -10184,14 +8247,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Thai Salad Dressing",
@@ -10202,13 +8259,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Thai Spice Rub",
@@ -10219,16 +8271,8 @@
                 "count": "Free"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Alfredo Sauce",
@@ -10247,15 +8291,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan BBQ Sauce",
@@ -10272,14 +8309,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Caesar Salad Dressing",
@@ -10290,14 +8321,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegetarian Protein-Packed Ranch Dip",
@@ -10308,13 +8333,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Apple Pie Muffins",
@@ -10329,13 +8349,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Almond Chocolate Squares",
@@ -10354,13 +8369,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Avocado Brownies",
@@ -10375,13 +8385,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Baked Donut Holes",
@@ -10392,13 +8397,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Banana Oatmeal Cookies",
@@ -10417,14 +8417,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Banana Peanut Butter Chocolate Chunk Ice Cream",
@@ -10439,14 +8433,8 @@
                 "count": "3 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Candy Cane Martini",
@@ -10457,13 +8445,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Candy Corn Parfait",
@@ -10478,12 +8461,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            ""
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": [""],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Caramel Apple Cocktail",
@@ -10494,14 +8473,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chocolate-Caramel Apple Nachos",
@@ -10516,14 +8489,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chocolate Cherry Froyo Cups",
@@ -10542,13 +8509,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chocolate Donuts",
@@ -10563,12 +8525,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Deceptively Divine Red Velvet Cupcakes",
@@ -10587,13 +8545,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Double Chocolate Cookies",
@@ -10608,14 +8561,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Easy Baked Apple Crisp",
@@ -10638,13 +8585,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Elderflower Meringue Cocktail",
@@ -10655,12 +8597,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Paloma",
@@ -10671,13 +8609,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vodka Collins",
@@ -10688,14 +8621,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Fruity Spring Rolls",
@@ -10706,15 +8633,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian",
-            "80 Day"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gluten-Free Chocolate Chip Cookies",
@@ -10729,13 +8649,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Gooey Peanut Butter Cookies",
@@ -10754,13 +8669,8 @@
                 "count": "3"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Grilled Peaches with Mascarpone",
@@ -10779,12 +8689,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Holiday Sugar Cookies",
@@ -10799,13 +8705,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Lemon Honey Cakes",
@@ -10820,13 +8721,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Lemon Raspberry Froyo Bites",
@@ -10837,13 +8733,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Melon Sorbet",
@@ -10854,13 +8745,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "No-Bake Chocolate Coconut Cookies",
@@ -10893,14 +8779,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "No-Bake Mini Blueberry Pies",
@@ -10923,14 +8803,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pan-Fried Cinnamon Bananas",
@@ -10945,13 +8819,8 @@
                 "count": "1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Peanut Butter Chocolate Balls",
@@ -10966,14 +8835,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Pumpkin Whoopie Pies",
@@ -10992,12 +8855,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Spring Sangria",
@@ -11008,14 +8867,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Strawberry Rhubarb Mini Pies",
@@ -11030,14 +8883,8 @@
                 "count": "2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Sweet Potato Pies",
@@ -11070,14 +8917,8 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Vegan",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Watermelon Agua Fresca",
@@ -11088,14 +8929,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Gluten-Free",
-            "Paleo",
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Gluten-Free", "Paleo", "Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Chocolate Hazelnut Shakeology",
@@ -11110,12 +8945,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Mexican Drinking Chocolate Shakeology",
@@ -11134,12 +8965,8 @@
                 "count": 1
             }
         ],
-        "dietary": [
-            "Vegetarian"
-        ],
-        "source": [
-            "Cooking Show"
-        ]
+        "dietary": ["Vegetarian"],
+        "source": ["Cooking Show"]
     },
     {
         "title": "Vegan Refried Beans",
@@ -11451,7 +9278,7 @@
         "title": "Eggplant and Chickpea Casserole",
         "image": {
             "src": "eggplant-chickpea-casserole.jpg",
-            "author":"Meagan Walker"
+            "author": "Meagan Walker"
         },
         "category": ["Entrees"],
         "container": [
@@ -12643,7 +10470,13 @@
                 "count": "Free"
             }
         ],
-        "dietary": ["Gluten-Free", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "Gluten-Free",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Cooking Show"]
     },
     {
@@ -12842,7 +10675,13 @@
                 "count": "1/2"
             }
         ],
-        "dietary": ["Gluten-Free", "High in Fiber", "Non-Dairy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "Gluten-Free",
+            "High in Fiber",
+            "Non-Dairy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/vegan-slow-cooker-stew"
     },
@@ -13830,7 +11669,12 @@
                 "count": "1/2"
             }
         ],
-        "dietary": ["Gluten-Free", "High in Protein", "Quick & Easy", "Vegetarian"],
+        "dietary": [
+            "Gluten-Free",
+            "High in Protein",
+            "Quick & Easy",
+            "Vegetarian"
+        ],
         "source": ["Cooking Show"]
     },
     {
@@ -13850,7 +11694,13 @@
                 "count": 2
             }
         ],
-        "dietary": ["Gluten-Free", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegetarian"],
+        "dietary": [
+            "Gluten-Free",
+            "High in Protein",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegetarian"
+        ],
         "source": ["Cooking Show"]
     },
     {
@@ -13948,7 +11798,12 @@
                 "count": 1
             }
         ],
-        "dietary": ["Gluten-Free", "High in Fiber", "High in Protein", "Quick & Easy"],
+        "dietary": [
+            "Gluten-Free",
+            "High in Fiber",
+            "High in Protein",
+            "Quick & Easy"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/collagen-shake-recipe"
     },
@@ -14071,7 +11926,14 @@
                 "count": "1/2"
             }
         ],
-        "dietary": ["High in Fiber", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "High in Fiber",
+            "High in Protein",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/vanilla-shakeology-energy-boost"
     },
@@ -14096,7 +11958,14 @@
                 "count": 1
             }
         ],
-        "dietary": ["High in Fiber", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "High in Fiber",
+            "High in Protein",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/hawaiian-mudslide-shakeology"
     },
@@ -14268,7 +12137,14 @@
                 "count": 1
             }
         ],
-        "dietary": ["High in Fiber", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegetarian", "Vegan"],
+        "dietary": [
+            "High in Fiber",
+            "High in Protein",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegetarian",
+            "Vegan"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/cinnamon-toast-shakeology"
     },
@@ -14944,7 +12820,12 @@
                 "count": "1 1/2"
             }
         ],
-        "dietary": ["High in Fiber", "High in Protein", "Quick & Easy", "Vegetarian"],
+        "dietary": [
+            "High in Fiber",
+            "High in Protein",
+            "Quick & Easy",
+            "Vegetarian"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/bananas-foster-shakeology"
     },
@@ -15128,7 +13009,14 @@
                 "count": 1
             }
         ],
-        "dietary": ["High in Fiber", "High in Protein", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "High in Fiber",
+            "High in Protein",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shakeology-pudding"
     },
@@ -15208,7 +13096,13 @@
                 "count": "1/2"
             }
         ],
-        "dietary": ["High in Protein", "Non-Dairy", "Quick & Easy", "Vegan", "Vegetarian"],
+        "dietary": [
+            "High in Protein",
+            "Non-Dairy",
+            "Quick & Easy",
+            "Vegan",
+            "Vegetarian"
+        ],
         "source": ["Blog"],
         "link": "https://www.beachbodyondemand.com/blog/peppermint-mocha-shakeology-martini"
     },
@@ -16295,7 +14189,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Melon Salad with Crispy Prosciutto",
@@ -16311,7 +14205,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Corn Casserole",
@@ -16331,7 +14225,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Buffalo Chicken Dip",
@@ -16347,7 +14241,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Merguez Frites Sandwiches",
@@ -16931,5 +14825,177 @@
         ],
         "dietary": ["Gluten-Free"],
         "source": ["Cooking Show"]
+    },
+    {
+        "title": "Eggplant Parmesan",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Chicken Basquaise",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Strawberry Banana Ice Cream",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["DietBet"]
+    },
+    {
+        "title": "Pesto Calabrese",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["DietBet"]
+    },
+    {
+        "title": "Brown Rice Pudding",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["DietBet"]
+    },
+    {
+        "title": "Chicken Mole Lettuce Wraps",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["DietBet"]
+    },
+    {
+        "title": "Nicoise Salad",
+        "category": ["Salads"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Clam Chowder",
+        "category": ["Soups"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
     }
 ]
