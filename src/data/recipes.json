@@ -14117,7 +14117,7 @@
             }
         ],
         "dietary": ["Gluten-Free", "Paleo"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Arroz Con Gandules",
@@ -14137,7 +14137,7 @@
             }
         ],
         "dietary": ["Gluten-Free"],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Roast Veggie Tacos",
@@ -14265,7 +14265,7 @@
             }
         ],
         "dietary": [],
-        "source": ["Monthly Group"]
+        "source": ["Cooking Show"]
     },
     {
         "title": "Apricot Crumble",
@@ -14996,6 +14996,262 @@
             }
         ],
         "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Baked Ziti",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Ham and Cheese Waffles",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Smoky Tomato, Chorizo, and White Bean Soup",
+        "category": ["Soups"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 3
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Spicy Chicken, Chickpea, and Sweet Potato Bake",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Deviled Eggs",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian", "Vegan"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Fruit and Nut Bran Muffins",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "General Tso's Chicken",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Shrimp Ceviche",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vietnamese Carmaelized Turkey Bowls",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Sausage and Spaghetti Squash Casserole",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian", "Vegan"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Jalapeno Popper Crisps",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Sweet Potato Cupcake with Ricotta Icing",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Vegetarian"],
         "source": ["Monthly Group"]
     }
 ]
