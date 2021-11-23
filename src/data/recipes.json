@@ -10011,6 +10011,10 @@
     },
     {
         "title": "Vegan Crab Cakes",
+        "image": {
+            "src": "vegan-crab-cakes.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -15325,6 +15329,10 @@
     },
     {
         "title": "Vegan Protein Salad with Miso Dressing",
+        "image": {
+            "src": "vegan-protein-salad.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Salads"],
         "container": [
             {
@@ -15400,5 +15408,33 @@
         ],
         "dietary": [],
         "source": ["DietBet"]
+    },
+    {
+        "title": "Vegan Gravy",
+        "category": ["Holiday", "Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Vegan Roast 'Turkey' Breast",
+        "category": ["Entrees", "Holiday"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group"]
     }
 ]
