@@ -15436,5 +15436,45 @@
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
         "source": ["Monthly Group"]
+    },
+    {
+        "title": "Ham and Pineapple Stuffed Sweet Potatoes",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
+    },
+    {
+        "title": "Breakfast Tacos with Chorizo",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group"]
     }
 ]
