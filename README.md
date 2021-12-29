@@ -6,6 +6,12 @@ I created this web app to serve those who utilize popular color-coded portion-co
 
 The official Eat The Rainbow app can be found here: https://eattherainbow.recipes
 
+#### Local Setup
+
+-   Root Directory
+    -   `npm install`
+    -   `npm run start`
+
 ### Future Updates
 
 This is my first and on-going React project. Eventually I would like to implement the following enhancements:
@@ -16,6 +22,11 @@ This is my first and on-going React project. Eventually I would like to implemen
 
 ## Changelog
 
+December 29, 2021
+
+-   Upgraded npm packages to Node 16 compatibility
+-   Upgraded React from v16 to 17
+
 August 21, 2021
 
-* Installed Redux and React Redux to better manage state.
+-   Installed Redux and React Redux to better manage state.

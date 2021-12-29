@@ -8,21 +8,25 @@ module.exports = {
     entry: './src/index.js',
     output: {
         path: path.resolve(__dirname, 'dist'),
-        filename: 'bundle.js?v='+Date.now(),
-        publicPath: '/'
+        filename: 'bundle.js?v=' + Date.now(),
+        publicPath: '/',
     },
     module: {
         rules: [
             {
                 test: /\.(js|jsx)$/,
-                use: 'babel-loader'
+                use: 'babel-loader',
             },
             {
                 test: /\.css$/,
-                use:[MiniCssExtractPlugin.loader, 'style-loader', 'css-loader'],
+                use: [
+                    MiniCssExtractPlugin.loader,
+                    'style-loader',
+                    'css-loader',
+                ],
             },
             {
-                test: /\.scss$/, 
+                test: /\.scss$/,
                 exclude: /node_modules/,
                 use: [
                     MiniCssExtractPlugin.loader,
@@ -30,21 +34,22 @@ module.exports = {
                     {
                         loader: 'css-loader',
                         options: {
+                            url: false,
                             sourceMap: true,
-                        }
+                        },
                     },
                     {
                         loader: 'sass-loader',
                         options: {
                             sourceMap: true,
-                        }
-                    }
-                ]
+                        },
+                    },
+                ],
             },
-        ]
+        ],
     },
     devServer: {
-        historyApiFallback: true
+        historyApiFallback: true,
     },
     plugins: [
         new HtmlWebpackPlugin({
@@ -55,13 +60,13 @@ module.exports = {
                 desc: 'This tool is an indepedent project developed to organize recipes specifically tailored for color-coded portion-control containers. This website is not affiliated with any company, program, or spokesperson.',
                 robots: 'index, follow',
                 'theme-color': '#8CC63F',
-                viewport: 'width=device-width, initial-scale=1'
+                viewport: 'width=device-width, initial-scale=1',
             },
-            minify: false
+            minify: false,
         }),
         new MiniCssExtractPlugin({
-            filename: "[name].css",
-            chunkFilename: "[id].css"
-        })
-    ]
-}
+            filename: '[name].css',
+            chunkFilename: '[id].css',
+        }),
+    ],
+};

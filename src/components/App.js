@@ -1,17 +1,15 @@
 import React from 'react';
-import { Router, Route, Switch, Link } from 'react-router-dom';
+import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { search } from '../actions';
-import history from '../history';
 
 // Pages
 import Recipes from './pages/Recipes';
-
 class App extends React.Component {
     render() {
         return (
             <div id="page2">
-                <Router history={history}>
+                <BrowserRouter>
                     <header id="header">
                         <div className="wrap">
                             <h1>
@@ -24,10 +22,10 @@ class App extends React.Component {
                             </h1>
                         </div>
                     </header>
-                    <Switch>
-                        <Route path="/" exact component={Recipes} />
-                    </Switch>
-                </Router>
+                    <Routes>
+                        <Route path="/" element={<Recipes />} />
+                    </Routes>
+                </BrowserRouter>
             </div>
         );
     }
