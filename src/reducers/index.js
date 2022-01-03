@@ -2,27 +2,32 @@ import { combineReducers } from 'redux';
 import filters from './filters';
 
 const searchTerm = (searchTerm = '', action) => {
-    return action.type === "SEARCH" ? action.payload : searchTerm;
+    return action.type === 'SEARCH' ? action.payload : searchTerm;
 };
 
 const currentPage = (currentPage = 1, action) => {
-    switch(action.type) {
-        case "CHANGE_PAGE":
-            return action.payload;
-        default:
-            return 1;
-    }
+    return action.type === 'CHANGE_PAGE' ? action.payload : currentPage;
 };
 
-const activeFilters = (activeFilters = { category: [], container: [], dietary: [], source: [] }, action) => {
-    switch(action.type) {
-        case "ADD_FILTER":
+const activeFilters = (
+    activeFilters = { category: [], container: [], dietary: [], source: [] },
+    action
+) => {
+    switch (action.type) {
+        case 'ADD_FILTER':
             return {
-                ...activeFilters, [action.payload.name]: [...activeFilters[action.payload.name], action.payload.value]
-            }
-        case "REMOVE_FILTER":
+                ...activeFilters,
+                [action.payload.name]: [
+                    ...activeFilters[action.payload.name],
+                    action.payload.value,
+                ],
+            };
+        case 'REMOVE_FILTER':
             return {
-                ...activeFilters, [action.payload.name]: activeFilters[action.payload.name].filter(el => el !== action.payload.value)
+                ...activeFilters,
+                [action.payload.name]: activeFilters[
+                    action.payload.name
+                ].filter((el) => el !== action.payload.value),
             };
         default:
             return activeFilters;
@@ -30,11 +35,11 @@ const activeFilters = (activeFilters = { category: [], container: [], dietary: [
 };
 
 const hideFilters = (hideFilters = false, action) => {
-    return action.type === "TOGGLE_FILTERS" ? action.payload : hideFilters;
+    return action.type === 'TOGGLE_FILTERS' ? action.payload : hideFilters;
 };
 
 const random = (random = false, action) => {
-    return action.type === "RANDOMIZE" ? action.payload : random;
+    return action.type === 'RANDOMIZE' ? action.payload : random;
 };
 
 export default combineReducers({
@@ -43,5 +48,5 @@ export default combineReducers({
     currentPage,
     activeFilters,
     hideFilters,
-    random
+    random,
 });
