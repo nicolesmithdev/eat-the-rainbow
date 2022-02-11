@@ -15,7 +15,7 @@ const RecipeCard = ({ recipe }, index) => {
     let containersVegan = '';
     if (recipe.container_vegan) {
         containersVegan = (
-            <div className="containers-vegan">
+            <div className="containers containers-vegan">
                 <strong>Vegan:</strong>
                 {Object.values(recipe.container_vegan).map((item, i) => {
                     let value = '';
@@ -27,6 +27,26 @@ const RecipeCard = ({ recipe }, index) => {
                             value = 'B';
                             break;
                     }
+                    return (
+                        <span key={i}>
+                            <span className={item.color.toLowerCase()}>
+                                {value}
+                            </span>{' '}
+                            {item.count}
+                        </span>
+                    );
+                })}
+            </div>
+        );
+    }
+
+    let containersGut = '';
+    if (recipe.container_gut) {
+        containersGut = (
+            <div className="containers containers-gut">
+                <strong>Gut Protocol:</strong>
+                {Object.values(recipe.container_gut).map((item, i) => {
+                    let value = '';
                     return (
                         <span key={i}>
                             <span className={item.color.toLowerCase()}>
@@ -78,6 +98,7 @@ const RecipeCard = ({ recipe }, index) => {
             <h2>{recipe.title}</h2>
             <div className="containers">{containers}</div>
             {containersVegan}
+            {containersGut}
             {category}
             {dietary}
             <div>
