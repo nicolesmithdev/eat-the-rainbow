@@ -15711,5 +15711,187 @@
         ],
         "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
         "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Frank + Beans",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Candied Hasselback Yams",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Vegan Eggplant Cannelloni",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 2
+            },
+            {
+                "color": "Red",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Cider Braised Cabbage",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Paleo"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Ragu Bianco",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Instant Pop Hoppn' John",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chicken Scampi",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Warm Spice Cake",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
     }
 ]
