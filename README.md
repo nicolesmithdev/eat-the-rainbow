@@ -22,6 +22,10 @@ This is my first and on-going React project. Eventually I would like to implemen
 
 ## Changelog
 
+February 12, 2022
+
+-   Implemented Google Analytics event tracking for search queries, filter toggling, and pagination
+
 December 29, 2021
 
 -   Upgraded npm packages to Node 16 compatibility
