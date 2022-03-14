@@ -87,6 +87,10 @@
     },
     {
         "title": "Vegan Meatloaf",
+        "image": {
+            "src": "vegan-meatloaf.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -1531,6 +1535,10 @@
     },
     {
         "title": "Healthier Hollandaise Sauce",
+        "image": {
+            "src": "healthier-hollandaise-sauce.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Sauces, Dressings, & Seasonings"],
         "container": [
             {
@@ -12445,6 +12453,10 @@
     },
     {
         "title": "Gingerbread Cookies",
+        "image": {
+            "src": "gingerbread-cookies.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Desserts"],
         "container": [
             {
@@ -14213,6 +14225,10 @@
     },
     {
         "title": "Corn Casserole",
+        "image": {
+            "src": "corn-casserole.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -15004,6 +15020,10 @@
     },
     {
         "title": "Baked Ziti",
+        "image": {
+            "src": "baked-ziti.jpg",
+            "author": "Nicole Smith"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -15104,6 +15124,10 @@
     },
     {
         "title": "Vegan Deviled Eggs",
+        "image": {
+            "src": "vegan-deviled-eggs.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Sides & Snacks"],
         "container": [
             {
@@ -15208,6 +15232,10 @@
     },
     {
         "title": "Vegan Sausage and Spaghetti Squash Casserole",
+        "image": {
+            "src": "vegan-sausage-and-spaghetti-squash-casserole.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -15764,6 +15792,10 @@
     },
     {
         "title": "Vegan Eggplant Cannelloni",
+        "image": {
+            "src": "vegan-eggplant-cannelloni.jpg",
+            "author": "Meagan Walker"
+        },
         "category": ["Entrees"],
         "container": [
             {
@@ -15892,6 +15924,168 @@
             }
         ],
         "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Onion Blossom",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Filet Sauce",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Mediterranean Cauliflower Salad (Tabbouleh)",
+        "category": ["Salads"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Gut Protocol",
+            "Paleo",
+            "Vegetarian",
+            "Vegan"
+        ],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Breakfast Egg Clouds",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Paleo", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chili-Lime Chicken with Mango Salsa",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Buffalo Deviled Eggs",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Vegan Tofu Salad",
+        "category": ["Salads"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chilaquiles",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
         "source": ["Monthly Group (New)"]
     }
 ]

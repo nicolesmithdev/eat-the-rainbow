@@ -8,7 +8,7 @@ class Welcome extends React.Component {
                     <em>
                         {this.props.numResults} recipes available to search
                         <br />
-                        Last Updated: February 11, 2022
+                        Last Updated: March 14, 2022
                     </em>
                 </p>
 
