@@ -54,6 +54,8 @@ export default () => {
                 'DietBet',
                 'LWLC Book',
                 'Monthly Group',
+                'Monthly Group (New)',
+                'Gut Protocol',
             ],
         },
     ];

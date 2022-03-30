@@ -6899,8 +6899,8 @@
                 "count": 1
             }
         ],
-        "dietary": ["Gluten-Free", "Vegetarian", "80 Day"],
-        "source": ["Cooking Show"]
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegetarian", "80 Day"],
+        "source": ["Cooking Show", "Gut Protocol"]
     },
     {
         "title": "Green Bean Casserole",
@@ -14896,15 +14896,17 @@
         "container": [
             {
                 "color": "Purple",
-                "count": 2
-            },
-            {
-                "color": "Blue",
                 "count": 1
             }
         ],
-        "dietary": [],
-        "source": ["DietBet"]
+        "dietary": [
+            "Gluten-Free",
+            "Gut Protocol",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": ["DietBet", "Gut Protocol"]
     },
     {
         "title": "Pesto Calabrese",
@@ -15759,12 +15761,12 @@
         ],
         "container_gut": [
             {
-                "color": "Red",
+                "color": "Red A",
                 "count": 1
             },
             {
-                "color": "Red",
-                "count": 1
+                "color": "Red B",
+                "count": "1/2"
             },
             {
                 "color": "Teaspoon",
@@ -16087,5 +16089,485 @@
         ],
         "dietary": ["Gluten-Free", "Vegetarian"],
         "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Taco Salad",
+        "category": ["Salads"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Icebox Cookies",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Homemade Snow Cones",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Tilapia Salad",
+        "category": ["Salads"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red A",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Paleo"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Fermented Blueberries",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Gut Protocol",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Smoky Chicken Lettuce Wraps",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red A",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Paleo"],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Crunchy Hummus Sandwich",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Vegan Potato Cheese Soup",
+        "category": ["Soups"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Blueberry Banana Overnight Oats",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Purple",
+                "count": 1
+            },
+            {
+                "color": "Yellow A",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Vegan BLT",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Red B",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 2
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Chicken a la King with Cauliflower Cream Sauce",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red A",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Paleo"],
+        "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Cauliflower Grits with Seared Mushrooms and Spinach",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Red A",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol"],
+        "source": ["Gut Protocol"]
     }
 ]
