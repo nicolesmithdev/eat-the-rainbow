@@ -47,6 +47,16 @@ const RecipeCard = ({ recipe }, index) => {
                 <strong>Gut Protocol:</strong>
                 {Object.values(recipe.container_gut).map((item, i) => {
                     let value = '';
+                    switch (item.color) {
+                        case 'Red A':
+                        case 'Yellow A':
+                            value = 'A';
+                            break;
+                        case 'Red B':
+                        case 'Yellow B':
+                            value = 'B';
+                            break;
+                    }
                     return (
                         <span key={i}>
                             <span className={item.color.toLowerCase()}>

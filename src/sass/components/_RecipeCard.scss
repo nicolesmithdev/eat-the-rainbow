@@ -57,6 +57,7 @@
                 @each $container, $map in $containers {
                     &.#{$container} {
                         background-color: map-get($map, color);
+                        color: $black;
                     }
                 }
 
