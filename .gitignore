@@ -1,5 +1,4 @@
 node_modules
 .DS_Store
 dist
-csv-to-json.php
-recipes.csv
+config/dev.js
