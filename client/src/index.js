@@ -1,7 +1,8 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import { Provider } from 'react-redux';
-import { createStore } from 'redux';
+import { createStore, applyMiddleware } from 'redux';
+import reduxThunk from 'redux-thunk';
 import ReactGA from 'react-ga';
 
 import App from './components/App';
@@ -9,15 +10,12 @@ import reducers from './reducers';
 import './index.scss';
 
 if (process.env.NODE_ENV === 'production') {
-    const trackingId = "UA-30012836-58";
+    const trackingId = 'UA-30012836-58';
     ReactGA.initialize(trackingId);
     ReactGA.pageview(window.location.pathname + window.location.search);
 }
 
-const store = createStore(
-    reducers,
-    window.__REDUX_DEVTOOLS_EXTENSION__ && window.__REDUX_DEVTOOLS_EXTENSION__()
-);
+const store = createStore(reducers, {}, applyMiddleware(reduxThunk));
 
 ReactDOM.render(
     <Provider store={store}>
