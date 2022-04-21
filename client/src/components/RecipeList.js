@@ -1,6 +1,5 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import data from '../data/recipes.json';
 import RecipeCard from './RecipeCard';
 import Pagination from './Pagination';
 import Welcome from './Welcome';
@@ -12,7 +11,9 @@ class RecipeList extends React.Component {
         const random = this.props.random;
 
         // filtering
-        let results = data.sort((a, b) => (a.title > b.title ? 1 : -1));
+        let results = this.props.recipes.sort((a, b) =>
+            a.title > b.title ? 1 : -1
+        );
         if (searchTerm) {
             results = results.filter((recipe) =>
                 recipe.title
@@ -111,6 +112,7 @@ class RecipeList extends React.Component {
 
 const mapStateToProps = (state) => {
     return {
+        recipes: state.recipes,
         filters: state.activeFilters,
         currentPage: state.currentPage,
         searchTerm: state.searchTerm,
@@ -118,4 +120,4 @@ const mapStateToProps = (state) => {
     };
 };
 
-export default connect(mapStateToProps)(RecipeList);
+export default connect(mapStateToProps, {})(RecipeList);
