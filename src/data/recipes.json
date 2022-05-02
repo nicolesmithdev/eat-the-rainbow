@@ -16789,5 +16789,317 @@
         ],
         "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
         "source": ["Gut Protocol"]
+    },
+    {
+        "title": "Salisbury Steak",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red A",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Hash Brown Cups",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Pizza Bowls",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Italian Sausage",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Paleo"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chickpea Nuggets",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 2
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow A",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Red B",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow A",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Slow Cooker Chicken Burrito Bowls",
+        "category": ["Entrees", "Crockpot"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Sweet and Sour Sauce",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Yellow B",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Sheet Pan Shrimp Fajitas",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chocolate Chip Cookie Baked Oats",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Sheet Pan Garlic Parmesan Cauliflower",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Oven Fried Pickles",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Peanut Butter and Jelly Oatmeal",
+        "category": ["Breakfast"],
+        "container": [
+            {
+                "color": "Purple",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Purple",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow S",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Purple",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow S",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
     }
 ]
