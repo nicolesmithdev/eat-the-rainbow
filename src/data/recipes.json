@@ -17077,7 +17077,7 @@
                 "count": "1 1/2"
             },
             {
-                "color": "Yellow S",
+                "color": "Yellow A",
                 "count": 1
             },
             {
@@ -17091,7 +17091,7 @@
                 "count": "1 1/2"
             },
             {
-                "color": "Yellow S",
+                "color": "Yellow A",
                 "count": 1
             },
             {
@@ -17100,6 +17100,210 @@
             }
         ],
         "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Mexican Pizza",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Insa Pot Birria Tacos",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Slow Cooker Chicken Pot Pie",
+        "category": ["Entrees", "Crockpot"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "No-Bake Peanut Butter Chocolate Cookies",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Bell Pepper Meatball Subs",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Mushroom Risotto",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Cookie Dough Pops",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chocolate Cake Donuts",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chimichanga",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1 1/2"
+            },
+            {
+                "color": "Blue",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": [],
         "source": ["Monthly Group (New)"]
     }
 ]
