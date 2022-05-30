@@ -19,4 +19,8 @@ app.get('/api/recipes', async (req, res) => {
     res.send(recipeMap);
 });
 
-app.listen(5000);
+PORT = 50000;
+
+app.listen(PORT, () => {
+    console.log(`Server is up and running on port ${PORT}`);
+});
