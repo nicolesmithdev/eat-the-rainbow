@@ -3,11 +3,16 @@
     "version": "1.0.0",
     "description": "I created this web app to serve those who utilize popular color-coded portion-control containers as their way of eating. Users can search and filter recipes by container color, meal category, dietary needs, etc. to gain inspiration on meal planning. Actual recipe ingredients and directions are not available; simply the container counts and source.",
     "main": "index.js",
+    "engines": {
+        "node": "14.16.1",
+        "npm": "6.14.12"
+    },
     "scripts": {
         "start": "node index.js",
         "server": "nodemon index.js",
         "client": "npm run start --prefix client",
-        "dev": "concurrently \"npm run server\" \"npm run client\""
+        "dev": "concurrently \"npm run server\" \"npm run client\"",
+        "heroku-postbuild": "NPM_CONFIG_PRODUCTION=false npm install --prefix client && npm run build --prefix client"
     },
     "repository": {
         "type": "git",

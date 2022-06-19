@@ -3,6 +3,10 @@
     "version": "1.0.0",
     "description": "",
     "main": "index.js",
+    "engines": {
+        "node": "14.16.1",
+        "npm": "6.14.12"
+    },
     "homepage": "https://eattherainbow.recipes",
     "proxy": "http://localhost:50000",
     "babel": {
