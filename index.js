@@ -8,6 +8,11 @@ const Recipe = mongoose.model('recipes');
 
 const app = express();
 
+app.get('/', (req, res) => {
+    // res.send(`Testing. mongoURI ${keys.mongoURI}`);
+    res.send('Testing 2');
+});
+
 app.get('/api/recipes', async (req, res) => {
     const recipes = await Recipe.find({});
 
