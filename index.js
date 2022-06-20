@@ -24,7 +24,7 @@ app.get('/api/recipes', async (req, res) => {
     res.send(recipeMap);
 });
 
-PORT = 50000;
+PORT = process.env.PORT || 50000;
 
 app.listen(PORT, () => {
     console.log(`Server is up and running on port ${PORT}`);
