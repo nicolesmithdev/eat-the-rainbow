@@ -17305,5 +17305,159 @@
         ],
         "dietary": [],
         "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Chicken Parm Meatloaf",
+        "category": ["Entrees"],
+        "container": [
+            {
+                "color": "Green",
+                "count": 1
+            },
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": "1/2"
+            },
+            {
+                "color": "Blue",
+                "count": 1
+            }
+        ],
+        "dietary": ["Gluten-Free"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Asparagus Tart",
+        "category": ["Sides & Snacks"],
+        "container": [
+            {
+                "color": "Green",
+                "count": "1/2"
+            },
+            {
+                "color": "Red",
+                "count": "1/2"
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Puff Pastry",
+        "category": ["Desserts"],
+        "container": [
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Teaspoon",
+                "count": 1
+            }
+        ],
+        "dietary": ["Vegetarian"],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Vegan Ranch",
+        "category": ["Sauces, Dressings, & Seasonings"],
+        "container": [
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Orange",
+                "count": 1
+            }
+        ],
+        "dietary": [
+            "Gluten-Free",
+            "Gut Protocol",
+            "Paleo",
+            "Vegan",
+            "Vegetarian"
+        ],
+        "source": ["Monthly Group (New)"]
+    },
+    {
+        "title": "Buffalo Tofu Wings",
+        "category": ["Entrees", "Sides & Snacks"],
+        "container": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "container_vegan": [
+            {
+                "color": "Red",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "container_gut": [
+            {
+                "color": "Red B",
+                "count": 1
+            },
+            {
+                "color": "Yellow B",
+                "count": 1
+            },
+            {
+                "color": "Orange",
+                "count": "1/2"
+            },
+            {
+                "color": "Teaspoon",
+                "count": 2
+            }
+        ],
+        "dietary": ["Gluten-Free", "Gut Protocol", "Vegan", "Vegetarian"],
+        "source": ["Monthly Group (New)"]
     }
 ]
