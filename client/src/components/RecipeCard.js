@@ -107,8 +107,8 @@ const RecipeCard = ({ recipe }, index) => {
             />
             <h2>{recipe.title}</h2>
             <div className="containers">{containers}</div>
-            {containersVegan}
-            {containersGut}
+            {recipe.container_vegan.length > 0 ? containersVegan : null}
+            {recipe.container_gut.length > 0 ? containersGut : null}
             {category}
             {dietary}
             <div>
