@@ -8,19 +8,25 @@ The official Eat The Rainbow app can be found here: https://eattherainbow.recipe
 
 #### Local Setup
 
+-   `client` Directory
+    -   `npm install`
 -   Root Directory
     -   `npm install`
-    -   `npm run start`
+    -   `npm run dev`
 
 ### Future Updates
 
-This is my first and on-going React project. Eventually I would like to implement the following enhancements:
+This is my first and on-going MERN (MongoDB, Express, React, Node) project. Eventually I would like to implement the following enhancements:
 
-1. Improve pagination or infinite scrolling
-2. Add user rating / "Most Popular"
+1. Improve pagination or implement infinite scrolling
+2. Add authentication to add user rating abilities, "Most Popular"
 3. Sort by recently added
 
 ## Changelog
+
+July 25, 2022
+
+-   Refactored the app to connect to a NodeJS and Express backend, serving the data from MongoDB
 
 February 12, 2022
 
