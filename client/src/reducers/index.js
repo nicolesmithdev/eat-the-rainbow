@@ -1,6 +1,10 @@
 import { combineReducers } from 'redux';
 import filters from './filters';
 
+const recipes = (recipes = [], action) => {
+    return action.type === 'FETCH_RECIPES' ? action.payload : recipes;
+};
+
 const searchTerm = (searchTerm = '', action) => {
     return action.type === 'SEARCH' ? action.payload : searchTerm;
 };
@@ -43,6 +47,7 @@ const random = (random = false, action) => {
 };
 
 export default combineReducers({
+    recipes,
     filters,
     searchTerm,
     currentPage,

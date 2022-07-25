@@ -1,47 +1,35 @@
 {
     "name": "eat-the-rainbow",
     "version": "1.0.0",
-    "description": "",
+    "description": "I created this web app to serve those who utilize popular color-coded portion-control containers as their way of eating. Users can search and filter recipes by container color, meal category, dietary needs, etc. to gain inspiration on meal planning. Actual recipe ingredients and directions are not available; simply the container counts and source.",
     "main": "index.js",
-    "babel": {
-        "presets": [
-            "@babel/preset-env",
-            "@babel/preset-react"
-        ],
-        "plugins": [
-            "@babel/plugin-proposal-class-properties"
-        ]
+    "engines": {
+        "node": "14.16.1",
+        "npm": "6.14.12"
     },
     "scripts": {
-        "build": "webpack --mode production",
-        "start": "webpack-dev-server --open --mode development"
+        "start": "node index.js",
+        "server": "nodemon index.js",
+        "client": "npm run start --prefix client",
+        "dev": "concurrently \"npm run server\" \"npm run client\"",
+        "heroku-prebuild": "npm install --also-dev --prefix client",
+        "heroku-postbuild": "npm run build --prefix client"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/nicolesmithdev/eat-the-rainbow.git"
     },
     "keywords": [],
     "author": "",
     "license": "ISC",
-    "dependencies": {
-        "jquery": "^3.6.0",
-        "react": "^17.0.2",
-        "react-dom": "^17.0.2",
-        "react-ga": "^3.3.1",
-        "react-redux": "^7.2.8",
-        "react-router-dom": "^6.3.0",
-        "redux": "^4.2.0"
+    "bugs": {
+        "url": "https://github.com/nicolesmithdev/eat-the-rainbow/issues"
     },
-    "devDependencies": {
-        "@babel/core": "^7.18.5",
-        "@babel/plugin-proposal-class-properties": "^7.17.12",
-        "@babel/preset-env": "^7.18.2",
-        "@babel/preset-react": "^7.17.12",
-        "babel-loader": "^8.2.5",
-        "css-loader": "^6.7.1",
-        "html-webpack-plugin": "^5.5.0",
-        "mini-css-extract-plugin": "^2.6.1",
-        "node-sass": "^7.0.1",
-        "sass-loader": "^12.6.0",
-        "style-loader": "^3.3.1",
-        "webpack": "^5.73.0",
-        "webpack-cli": "^4.10.0",
-        "webpack-dev-server": "^4.9.2"
+    "homepage": "https://github.com/nicolesmithdev/eat-the-rainbow#readme",
+    "dependencies": {
+        "concurrently": "^7.1.0",
+        "express": "^4.17.3",
+        "mongoose": "^6.3.0",
+        "nodemon": "^2.0.15"
     }
 }

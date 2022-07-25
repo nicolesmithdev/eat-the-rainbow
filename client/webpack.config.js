@@ -50,6 +50,9 @@ module.exports = {
     },
     devServer: {
         historyApiFallback: true,
+        proxy: {
+            '/api': 'http://localhost:50000',
+        },
     },
     plugins: [
         new HtmlWebpackPlugin({

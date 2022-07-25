@@ -1,6 +1,5 @@
 import React from 'react';
 import { connect } from 'react-redux';
-import recipes from '../data/recipes.json';
 import { addFilter, removeFilter, toggleFilters } from '../actions';
 import ReactGA from 'react-ga';
 
@@ -44,12 +43,12 @@ class FilterList extends React.Component {
                             let count = '';
                             count =
                                 key === 'container'
-                                    ? recipes.filter((recipe) =>
+                                    ? this.props.recipes.filter((recipe) =>
                                           recipe.container.some((c) =>
                                               c.color.includes(`${value}`)
                                           )
                                       ).length
-                                    : recipes.filter((recipe) =>
+                                    : this.props.recipes.filter((recipe) =>
                                           recipe[key].includes(`${value}`)
                                       ).length;
                             const displayCount =
@@ -96,6 +95,7 @@ class FilterList extends React.Component {
 
 const mapStateToProps = (state) => {
     return {
+        recipes: state.recipes,
         filters: state.filters,
         hideFilters: state.hideFilters,
     };

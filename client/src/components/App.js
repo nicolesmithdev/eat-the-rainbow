@@ -1,11 +1,14 @@
 import React from 'react';
 import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
 import { connect } from 'react-redux';
-import { search } from '../actions';
+import { fetchRecipes, search } from '../actions';
 
 // Pages
 import Recipes from './pages/Recipes';
 class App extends React.Component {
+    componentDidMount() {
+        this.props.fetchRecipes();
+    }
     render() {
         return (
             <div id="page2">
@@ -31,4 +34,4 @@ class App extends React.Component {
     }
 }
 
-export default connect(null, { search })(App);
+export default connect(null, { fetchRecipes, search })(App);
