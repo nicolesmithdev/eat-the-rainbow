@@ -18,11 +18,14 @@ The official Eat The Rainbow app can be found here: https://eattherainbow.recipe
 
 This is my first and on-going MERN (MongoDB, Express, React, Node) project. Eventually I would like to implement the following enhancements:
 
-1. Improve pagination or implement infinite scrolling
-2. Add authentication to add user rating abilities, "Most Popular"
-3. Sort by recently added
+1. Add authentication to add user rating abilities, "Most Popular"
+2. Sort by recently added
 
 ## Changelog
+
+July 26, 2022
+
+-   Improved pagination with the help of [react-paginate](https://www.npmjs.com/package/react-paginate)
 
 July 25, 2022
 

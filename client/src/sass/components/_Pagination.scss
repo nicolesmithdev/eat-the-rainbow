@@ -27,16 +27,22 @@
                 display: inline-block;
                 font-size: 16px;
                 font-weight: 600;
-                line-height: $line-height*1.5;
+                line-height: $line-height * 1.5;
                 text-align: center;
                 text-decoration: none;
-                width: $padding*1.5;
+                width: $padding * 1.5;
 
                 &:hover,
                 &.active {
                     background-color: $bright-green;
                     color: $white;
                 }
+            }
+
+            &.disabled a {
+                background-color: transparent;
+                color: $default-color;
+                cursor: not-allowed;
             }
         }
     }

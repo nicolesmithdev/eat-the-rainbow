@@ -2,10 +2,11 @@ import React from 'react';
 import { connect } from 'react-redux';
 import { changePage } from '../actions';
 import ReactGA from 'react-ga';
+import ReactPaginate from 'react-paginate';
 
 class Pagination extends React.Component {
     onChangePage = (e) => {
-        const pageNumber = Number(e.target.text);
+        const pageNumber = Number(e.selected + 1);
         this.props.changePage(pageNumber);
         ReactGA.event({
             category: 'Engagement',
@@ -15,35 +16,22 @@ class Pagination extends React.Component {
     };
 
     renderPagination() {
-        const pageNumbers = [];
-
-        for (
-            let i = 1;
-            i <= Math.ceil(this.props.numResults / this.props.postsPerPage);
-            i++
-        ) {
-            pageNumbers.push(i);
-        }
+        const pageNumbers = Math.ceil(
+            this.props.numResults / this.props.postsPerPage
+        );
 
         return (
             <nav id="pagination">
-                <ul>
-                    {pageNumbers.map((number) => (
-                        <li key={number}>
-                            <a
-                                onClick={this.onChangePage}
-                                href="#"
-                                className={
-                                    this.props.currentPage === number
-                                        ? 'active'
-                                        : ''
-                                }
-                            >
-                                {number}
-                            </a>
-                        </li>
-                    ))}
-                </ul>
+                <ReactPaginate
+                    breakLabel="..."
+                    nextLabel="&raquo;"
+                    previousLabel="&laquo;"
+                    onPageChange={this.onChangePage}
+                    pageRangeDisplayed={5}
+                    pageCount={pageNumbers}
+                    renderOnZeroPageCount={null}
+                    activeLinkClassName="active"
+                />
             </nav>
         );
     }
