@@ -50,9 +50,9 @@ class RecipeList extends React.Component {
                                     return true;
                             });
                         });
-                    } else if (type == 'source') {
+                    } else if (type === 'category' || type === 'source') {
                         results = results.filter((recipe) =>
-                            recipe.source.some((el) => values.includes(el))
+                            recipe[type].some((el) => values.includes(el))
                         );
                     } else {
                         values.map((item) => {

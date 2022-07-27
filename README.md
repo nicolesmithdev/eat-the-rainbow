@@ -23,6 +23,10 @@ This is my first and on-going MERN (MongoDB, Express, React, Node) project. Even
 
 ## Changelog
 
+July 27, 2022
+
+-   Fix category filtering so results show recipes that include one or more selected categories
+
 July 26, 2022
 
 -   Improved pagination with the help of [react-paginate](https://www.npmjs.com/package/react-paginate)
