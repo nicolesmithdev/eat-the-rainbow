@@ -1,6 +1,6 @@
 ## Eat The Rainbow
 
-I created this web app to serve those who utilize popular color-coded portion-control containers as their way of eating. Users can search and filter recipes by container color, meal category, dietary needs, etc. to gain inspiration on meal planning. Actual recipe ingredients and directions are not available; simply the container counts and source.
+I created this web app to serve those who utilize a popular color-coded portion-control containers as their way of eating. Users can search and filter recipes by container color, meal category, dietary needs, etc. to gain inspiration on meal planning. Actual recipe ingredients and directions are not available; simply the container counts and source.
 
 ### How to Use
 
