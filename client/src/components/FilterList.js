@@ -32,50 +32,50 @@ class FilterList extends React.Component {
     };
 
     renderFilters() {
-        return Object.values(this.props.filters).map(({ label, values }, x) => {
-            let filter = Object.keys(this.props.filters)[x];
-            return (
-                <div classlabel={`filter ${filter}`} key={x}>
-                    <h3>{label}</h3>
-                    <ul>
-                        {values.map((value, i) => {
-                            const key = label.toLowerCase();
+        return Object.values(this.props.filters).map(
+            ({ label, slug, values }, x) => {
+                let filter = Object.keys(this.props.filters)[x];
+                return (
+                    <div classlabel={`filter ${filter}`} key={x}>
+                        <h3>{label}</h3>
+                        <ul>
+                            {values.map((value, i) => {
+                                let count = '';
+                                count =
+                                    slug === 'container'
+                                        ? this.props.recipes.filter((recipe) =>
+                                              recipe.container.some((c) =>
+                                                  c.color.includes(`${value}`)
+                                              )
+                                          ).length
+                                        : this.props.recipes.filter((recipe) =>
+                                              recipe[slug].includes(`${value}`)
+                                          ).length;
+                                const displayCount =
+                                    count > 0 ? (
+                                        <span className="count">({count})</span>
+                                    ) : (
+                                        ''
+                                    );
 
-                            let count = '';
-                            count =
-                                key === 'container'
-                                    ? this.props.recipes.filter((recipe) =>
-                                          recipe.container.some((c) =>
-                                              c.color.includes(`${value}`)
-                                          )
-                                      ).length
-                                    : this.props.recipes.filter((recipe) =>
-                                          recipe[key].includes(`${value}`)
-                                      ).length;
-                            const displayCount =
-                                count > 0 ? (
-                                    <span className="count">({count})</span>
-                                ) : (
-                                    ''
+                                return (
+                                    <li key={i}>
+                                        <input
+                                            type="checkbox"
+                                            id={value}
+                                            value={`${label}.${value}`}
+                                            onChange={this.onFilterChange}
+                                        />
+                                        <label htmlFor={value}>{value}</label>
+                                        {displayCount}
+                                    </li>
                                 );
-
-                            return (
-                                <li key={i}>
-                                    <input
-                                        type="checkbox"
-                                        id={value}
-                                        value={`${label}.${value}`}
-                                        onChange={this.onFilterChange}
-                                    />
-                                    <label htmlFor={value}>{value}</label>
-                                    {displayCount}
-                                </li>
-                            );
-                        })}
-                    </ul>
-                </div>
-            );
-        });
+                            })}
+                        </ul>
+                    </div>
+                );
+            }
+        );
     }
 
     render() {

@@ -1,6 +1,7 @@
 export default () => {
     const categories = {
         label: 'Category',
+        slug: 'category',
         values: [
             'Breakfast',
             'Cocktails',
@@ -18,6 +19,7 @@ export default () => {
 
     const containers = {
         label: 'Container',
+        slug: 'container',
         values: [
             'Blue',
             'Green',
@@ -32,6 +34,7 @@ export default () => {
 
     const dietary = {
         label: 'Dietary',
+        slug: 'dietary',
         values: [
             'Gluten-Free',
             'Gut Protocol',
@@ -48,6 +51,7 @@ export default () => {
 
     const source = {
         label: 'Source',
+        slug: 'source',
         values: [
             'Blog',
             'Cooking Show',
