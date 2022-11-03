@@ -32,13 +32,14 @@ class FilterList extends React.Component {
     };
 
     renderFilters() {
-        return this.props.filters.map(({ name, values }, x) => {
+        return Object.values(this.props.filters).map(({ label, values }, x) => {
+            let filter = Object.keys(this.props.filters)[x];
             return (
-                <div className={`filter ${name.toLowerCase()}`} key={x}>
-                    <h3>{name}</h3>
+                <div classlabel={`filter ${filter}`} key={x}>
+                    <h3>{label}</h3>
                     <ul>
                         {values.map((value, i) => {
-                            const key = name.toLowerCase();
+                            const key = label.toLowerCase();
 
                             let count = '';
                             count =
@@ -63,7 +64,7 @@ class FilterList extends React.Component {
                                     <input
                                         type="checkbox"
                                         id={value}
-                                        value={`${name}.${value}`}
+                                        value={`${label}.${value}`}
                                         onChange={this.onFilterChange}
                                     />
                                     <label htmlFor={value}>{value}</label>
