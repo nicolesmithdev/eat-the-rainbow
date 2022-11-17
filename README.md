@@ -28,7 +28,8 @@ This is my first and on-going MERN (MongoDB, Express, React, Node) project. Even
 
 November 17, 2022
 
--   Create form interface at `/admin/new` route to easily add new recipes via new `/api/new` endpoint
+-   Development mode only: create form interface at `/admin/new` route to easily add new recipes via new `/api/new` endpoint
+-   Bug fix: add React Router catch-all redirect to homepage
 
 July 27, 2022
 

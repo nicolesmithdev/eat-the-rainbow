@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter, Route, Routes, Link } from 'react-router-dom';
+import { BrowserRouter, Route, Routes, Link, Navigate } from 'react-router-dom';
 import { connect } from 'react-redux';
 import { fetchRecipes, search } from '../actions';
 
@@ -26,6 +26,7 @@ class App extends React.Component {
                     <Routes>
                         <Route path="/" element={<Recipes />} />
                         {process.env.NODE_ENV === 'development' && <Route path="/admin/new" exact element={<AdminNew />} />}
+                        <Route path="*" element={<Navigate to="/" replace />} />
                     </Routes>
                 </BrowserRouter>
             </div>
