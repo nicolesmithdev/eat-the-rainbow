@@ -2,22 +2,68 @@ input,
 select,
 textarea {
     background-color: $white;
-    border: 1px solid #EAEAEA;
+    border: 1px solid #eaeaea;
     color: $default-color;
     font-size: $default-size;
     padding: $padding/2;
     width: 100%;
 }
 
-input[type="text"],
+input[type='text'],
 textarea {
     -webkit-user-select: text;
     user-select: text;
 }
 
-input[type="checkbox"],
-input[type="radio"] {
+input[type='checkbox'],
+input[type='radio'] {
     display: inline-block;
     padding: 0;
     width: auto;
+}
+
+.form-group {
+    &:not(:last-child) {
+        margin-bottom: 1rem;
+    }
+    .field {
+        display: flex;
+        label {
+            flex-basis: 20%;
+            font-weight: 600;
+        }
+        > *:nth-child(2) {
+            flex: 0 1 auto;
+            max-width: 80%;
+        }
+        select {
+            height: 285px;
+            width: 285px;
+        }
+    }
+    .containers {
+        display: flex;
+        gap: 1rem;
+        > div {
+            align-items: center;
+            display: flex;
+            flex-direction: column;
+            label {
+                display: block;
+                flex-basis: 50px;
+                height: 50px;
+                margin-bottom: 1rem;
+                width: 50px;
+                @each $container, $map in $containers {
+                    &.#{$container} {
+                        background-color: map-get($map, color);
+                    }
+                }
+            }
+            input {
+                text-align: center;
+                width: 75px;
+            }
+        }
+    }
 }

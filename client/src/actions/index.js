@@ -8,6 +8,12 @@ export const fetchRecipes = () => async (dispatch) => {
     dispatch({ type: 'FETCH_RECIPES', payload: data });
 };
 
+export const createRecipe = (formValues) => async () => {
+    const response = await axios.post('/api/new', formValues);
+    // dispatch({ type: 'CREATE_RECIPE', payload: response.data });
+    // history.push('/');
+};
+
 export const search = (term) => {
     return {
         type: 'SEARCH',

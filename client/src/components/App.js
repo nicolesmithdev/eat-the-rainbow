@@ -5,6 +5,7 @@ import { fetchRecipes, search } from '../actions';
 
 // Pages
 import Recipes from './pages/Recipes';
+import AdminNew from './admin/AdminNew';
 class App extends React.Component {
     componentDidMount() {
         this.props.fetchRecipes();
@@ -16,10 +17,7 @@ class App extends React.Component {
                     <header id="header">
                         <div className="wrap">
                             <h1>
-                                <Link
-                                    to="/"
-                                    onClick={() => this.props.search('')}
-                                >
+                                <Link to="/" onClick={() => this.props.search('')}>
                                     Eat The Rainbow
                                 </Link>
                             </h1>
@@ -27,6 +25,7 @@ class App extends React.Component {
                     </header>
                     <Routes>
                         <Route path="/" element={<Recipes />} />
+                        {process.env.NODE_ENV === 'development' && <Route path="/admin/new" exact element={<AdminNew />} />}
                     </Routes>
                 </BrowserRouter>
             </div>

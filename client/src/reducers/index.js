@@ -5,6 +5,10 @@ const recipes = (recipes = [], action) => {
     return action.type === 'FETCH_RECIPES' ? action.payload : recipes;
 };
 
+const recipe = (recipe = {}, action) => {
+    return action.type === 'CREATE_RECIPE' ? action.payload : recipe;
+};
+
 const searchTerm = (searchTerm = '', action) => {
     return action.type === 'SEARCH' ? action.payload : searchTerm;
 };
@@ -48,6 +52,7 @@ const random = (random = false, action) => {
 
 export default combineReducers({
     recipes,
+    recipe,
     filters,
     searchTerm,
     currentPage,

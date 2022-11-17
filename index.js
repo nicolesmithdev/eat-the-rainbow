@@ -7,6 +7,8 @@ mongoose.connect(keys.mongoURI);
 const Recipe = mongoose.model('recipes');
 
 const app = express();
+app.use(express.json());
+app.use(express.urlencoded({ extended: true }));
 
 app.get('/api/recipes', async (req, res) => {
     const recipes = await Recipe.find({});
@@ -18,6 +20,19 @@ app.get('/api/recipes', async (req, res) => {
 
     res.send(recipeMap);
 });
+
+if (process.env.NODE_ENV === 'development') {
+    app.post('/api/new', async (req, res) => {
+        await Recipe.create(req.body, function (err) {
+            if (!err) {
+                res.send('success!');
+            } else {
+                res.send('error');
+            }
+        });
+        // res.send(req.body);
+    });
+}
 
 if (process.env.NODE_ENV === 'production') {
     // Express will serve up production assets (i.e. bundle.js, main.css)
