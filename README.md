@@ -28,8 +28,8 @@ This is my first and on-going MERN (MongoDB, Express, React, Node) project. Even
 
 November 17, 2022
 
--   Development mode only: create form interface at `/admin/new` route to easily add new recipes via new `/api/new` endpoint
--   Bug fix: add React Router catch-all redirect to homepage
+-   Add (development mode only) form interface (with [react-final-forms](https://www.npmjs.com/package/react-final-form)) at new `/admin/new` route to easily add recipes via new `/api/new` endpoint
+-   Fix non-existent routes to redirect to homepage
 
 July 27, 2022
 
@@ -37,21 +37,21 @@ July 27, 2022
 
 July 26, 2022
 
--   Improved pagination with the help of [react-paginate](https://www.npmjs.com/package/react-paginate)
+-   Improve pagination with [react-paginate](https://www.npmjs.com/package/react-paginate)
 
 July 25, 2022
 
--   Refactored the app to connect to a NodeJS and Express backend, serving the data from MongoDB
+-   Refactor app to connect to a NodeJS and Express backend, serving the data from MongoDB
 
 February 12, 2022
 
--   Implemented Google Analytics event tracking for search queries, filter toggling, and pagination
+-   Add Google Analytics event tracking for search queries, filter toggling, and pagination
 
 December 29, 2021
 
--   Upgraded npm packages to Node 16 compatibility
--   Upgraded React from v16 to 17
+-   Security: upgrade npm packages to Node 16
+-   Security: upgrade React from v16 to 17
 
 August 21, 2021
 
--   Installed Redux and React Redux to better manage state
+-   Install Redux and React Redux to better manage state
