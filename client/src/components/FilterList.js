@@ -36,7 +36,7 @@ class FilterList extends React.Component {
             ({ label, slug, values }, x) => {
                 let filter = Object.keys(this.props.filters)[x];
                 return (
-                    <div classlabel={`filter ${filter}`} key={x}>
+                    <div className={`filter ${filter}`} key={x}>
                         <h3>{label}</h3>
                         <ul>
                             {values.map((value, i) => {
