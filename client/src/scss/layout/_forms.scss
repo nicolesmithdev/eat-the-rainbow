@@ -26,6 +26,17 @@ input[type='radio'] {
     &:not(:last-child) {
         margin-bottom: 1rem;
     }
+    .error {
+        &:not(.message) {
+            background-color: lighten($red, 35%);
+            color: $red;
+            padding: 10px;
+        }
+        &.message {
+            font-size: 14px;
+            margin-top: 10px;
+        }
+    }
     .field {
         display: flex;
         label {
@@ -33,7 +44,7 @@ input[type='radio'] {
             font-weight: 600;
         }
         > *:nth-child(2) {
-            flex: 0 1 auto;
+            flex: 0 1 80%;
             max-width: 80%;
         }
         select {

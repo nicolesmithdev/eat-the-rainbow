@@ -40,8 +40,10 @@ class AdminNew extends React.Component {
         return (
             <div className={className}>
                 <label>{label}</label>
-                <input {...input} autoComplete="off" />
-                {this.renderError(meta)}
+                <div>
+                    <input {...input} autoComplete="off" />
+                    {this.renderError(meta)}
+                </div>
             </div>
         );
     };
@@ -49,7 +51,7 @@ class AdminNew extends React.Component {
     renderError({ error, touched }) {
         if (touched && error) {
             return (
-                <div className="ui error message">
+                <div className="error message">
                     <div className="header">{error}</div>
                 </div>
             );
@@ -59,7 +61,7 @@ class AdminNew extends React.Component {
     validate = (values) => {
         const errors = {};
         if (!values.title) {
-            errors.title = 'Required';
+            errors.title = 'Required field';
         }
         return errors;
     };
