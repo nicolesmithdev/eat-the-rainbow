@@ -26,6 +26,10 @@ This is my first and on-going MERN (MongoDB, Express, React, Node) project. Even
 
 ## Changelog
 
+November 19, 2022
+
+-   Refactor form fields
+
 November 17, 2022
 
 -   Add (development mode only) form interface (with [react-final-forms](https://www.npmjs.com/package/react-final-form)) at new `/admin/new` route to easily add recipes via new `/api/new` endpoint

@@ -50,13 +50,43 @@ const random = (random = false, action) => {
     return action.type === 'RANDOMIZE' ? action.payload : random;
 };
 
+const formFields = () => {
+    let fields = [
+        {
+            label: 'Recipe Title',
+            slug: 'title',
+            type: 'input',
+            children: false,
+            value: '',
+        },
+    ];
+
+    Object.values(filters).map((filter) => {
+        if (filter.slug === 'container') {
+            return false;
+        }
+        const field = {
+            label: filter.label,
+            slug: filter.slug,
+            type: 'select',
+            children: filter.values,
+            value: [],
+        };
+        fields.push(field);
+        return field;
+    });
+
+    return fields;
+};
+
 export default combineReducers({
     recipes,
     recipe,
-    filters,
+    filters: () => filters,
     searchTerm,
     currentPage,
     activeFilters,
     hideFilters,
     random,
+    formFields,
 });
