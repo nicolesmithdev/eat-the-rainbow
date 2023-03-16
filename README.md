@@ -1,12 +1,12 @@
-## Eat The Rainbow
+# Eat The Rainbow
 
 I created this web app to serve those who utilize popular color-coded portion-control containers as their way of eating. Users can search and filter recipes by container color, meal category, dietary needs, etc. to gain inspiration on meal planning. Actual recipe ingredients and directions purposely omitted as they are not mine to share; simply the container counts and source.
 
-### How to Use
+## How to Use
 
-The official Eat The Rainbow app can be found here: https://eattherainbow.recipes
+The official Eat The Rainbow app can be found here: https://etr.nicolesmith.dev
 
-#### Local Setup
+### Local Setup
 
 -   `client` Directory
     -   `npm install`
@@ -17,7 +17,12 @@ The official Eat The Rainbow app can be found here: https://eattherainbow.recipe
     -   Duplicate `prod.js` and name it `dev.js`
     -   Insert your MongoDB connection string for the `mongoURI` key
 
-### Future Updates
+### Build
+
+-   `client` Directory
+    -   `npm run build`
+
+## Future Updates
 
 This is my first and on-going MERN (MongoDB, Express, React, Node) project. Eventually I would like to implement the following enhancements:
 
