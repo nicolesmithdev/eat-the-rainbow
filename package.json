@@ -4,8 +4,8 @@
     "description": "I created this web app to serve those who utilize popular color-coded portion-control containers as their way of eating. Users can search and filter recipes by container color, meal category, dietary needs, etc. to gain inspiration on meal planning. Actual recipe ingredients and directions are not available; simply the container counts and source.",
     "main": "index.js",
     "engines": {
-        "node": "14.16.1",
-        "npm": "6.14.12"
+        "node": "20.9.0",
+        "npm": "10.4.0"
     },
     "scripts": {
         "start": "node index.js",

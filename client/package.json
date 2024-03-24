@@ -4,10 +4,10 @@
     "description": "",
     "main": "index.js",
     "engines": {
-        "node": "14.16.1",
-        "npm": "6.14.12"
+        "node": "20.9.0",
+        "npm": "10.4.0"
     },
-    "homepage": "https://eattherainbow.recipes",
+    "homepage": "https://etr.nicolesmith.dev",
     "proxy": "http://localhost:50000",
     "babel": {
         "presets": [
@@ -54,7 +54,7 @@
         "html-webpack-plugin": "^5.5.0",
         "mini-css-extract-plugin": "^2.6.0",
         "node-sass": "^9.0.0",
-        "sass-loader": "^12.6.0",
+        "sass-loader": "^13.3.2",
         "style-loader": "^3.3.1",
         "webpack": "^5.76.2",
         "webpack-cli": "^4.9.2",
