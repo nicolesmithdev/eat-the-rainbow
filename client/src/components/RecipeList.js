@@ -97,7 +97,7 @@ class RecipeList extends React.Component {
             return (
                 <em>
                     No results found. If you feel this is a mistake, please{' '}
-                    <a href="mailto:report@eattherainbow.recipes">report</a>.
+                    <a href="mailto:nicole@nicolesmith.dev">report</a>.
                 </em>
             );
         }

@@ -26,7 +26,7 @@ class Welcome extends React.Component {
                     <br />
                     If you see a recipe with a "placeholder" image, and you have
                     a picture of that recipe you would love to share, please{' '}
-                    <a href="mailto:hello@eattherainbow.recipes?subject=Recipe%20Image">
+                    <a href="mailto:nicole@nicolesmith.dev?subject=Recipe%20Image">
                         submit your photos
                     </a>
                     ! Photo credit is given (unless you choose to remain
@@ -38,7 +38,7 @@ class Welcome extends React.Component {
                     <br />
                     If you have any feeback on how to improve this website
                     please{' '}
-                    <a href="mailto:hello@eattherainbow.recipes?subject=Submit%20Feedback">
+                    <a href="mailto:nicole@nicolesmith.dev?subject=Submit%20Feedback">
                         email me
                     </a>
                     .

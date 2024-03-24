@@ -24,6 +24,7 @@ The official Eat The Rainbow app can be found here: https://etr.nicolesmith.dev
     -   Upload `dist` folder into `client/dist` folder on server
 -   `root` Directory
     -   Upload any changed files from `config`, `models`, `index.js`, or `package.json` to root directory
+-   Confirm environment variable `MONGO_URI` exists
 
 ## Future Updates
 
