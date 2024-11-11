@@ -25,9 +25,9 @@
     },
     "homepage": "https://github.com/nicolesmithdev/eat-the-rainbow#readme",
     "dependencies": {
-        "concurrently": "^7.1.0",
+        "concurrently": "^9.1.0",
         "express": "^4.17.3",
-        "mongoose": "^7.6.3",
-        "nodemon": "^3.0.1"
+        "mongoose": "^8.8.1",
+        "nodemon": "^3.1.7"
     }
 }
