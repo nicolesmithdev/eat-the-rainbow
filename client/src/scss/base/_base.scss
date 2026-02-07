@@ -1,3 +1,6 @@
+@use '../abstracts/mixins';
+@use '../abstracts/variables' as *;
+
 p {
     margin: $padding 0;
 }
@@ -5,7 +8,7 @@ p {
 .content {
     clear: both;
 
-    @include respond-to('large') {
+    @include mixins.respond-to('large') {
         clear: none;
         float: right;
         width: calc(70% - 30px);

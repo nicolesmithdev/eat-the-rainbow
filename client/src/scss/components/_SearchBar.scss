@@ -1,3 +1,5 @@
+@use '../abstracts/variables' as *;
+
 #search-bar {
     align-items: center;
     display: flex;
@@ -5,14 +7,14 @@
     margin-bottom: $padding;
 
     .icon.filter {
-        @media screen and (max-width:992px) {
-            background-image: url("/images/filter.svg");
+        @media screen and (max-width: 992px) {
+            background-image: url('/images/filter.svg');
             background-repeat: no-repeat;
-            content: "";
+            content: '';
             cursor: pointer;
             display: inline-block;
             height: 30px;
-            margin-right: $padding/2;
+            margin-right: $padding * 0.5;
             width: 30px;
         }
     }

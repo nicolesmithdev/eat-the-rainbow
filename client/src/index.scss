@@ -1,19 +1,15 @@
-@import 
-    'scss/abstracts/variables',     // Sass Variables
-    'scss/abstracts/mixins';        // Sass Mixins
+@use 'scss/abstracts/variables';
+@use 'scss/abstracts/mixins'; // Sass Mixins
 
-@import
-    'scss/base/reset',              // Reset / Normalize
-    'scss/base/base',
-    'scss/base/typography';         // Typography
+@use 'scss/base/reset';
+@use 'scss/base/base';
+@use 'scss/base/typography'; // Typography
 
-@import
-    'scss/components/Pagination',   // Pagination
-    'scss/components/RecipeCard',   // Recipe Card
-    'scss/components/SearchBar';    // Search Bar
+@use 'scss/components/Pagination';
+@use 'scss/components/RecipeCard';
+@use 'scss/components/SearchBar'; // Search Bar
 
-@import
-    'scss/layout/header',           // Header
-    'scss/layout/footer',           // Footer
-    'scss/layout/sidebar',          // Sidebar
-    'scss/layout/forms';            // Forms
+@use 'scss/layout/header';
+@use 'scss/layout/footer';
+@use 'scss/layout/sidebar';
+@use 'scss/layout/forms'; // Forms

@@ -1,9 +1,12 @@
+@use '../abstracts/mixins';
+@use '../abstracts/variables' as *;
+
 #sidebar {
     font-size: 14px;
     line-height: 25px;
     position: relative;
 
-    @include respond-to('large') {
+    @include mixins.respond-to('large') {
         float: left;
         margin-bottom: $padding;
         width: 30%;
@@ -46,10 +49,10 @@
         @media screen and (max-width: 992px) {
             background-color: $white;
             border: 5px solid $medium-gray;
-            box-shadow: 0 0 10px rgba(0,0,0,0.15);
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.15);
             display: none;
             max-width: 544px;
-            padding: $padding/2;
+            padding: $padding * 0.5;
             position: absolute;
             top: 75px;
             width: 100%;
@@ -65,7 +68,7 @@
             }
         }
 
-        @include respond-to('x-small') {
+        @include mixins.respond-to('x-small') {
             &.open {
                 flex-direction: column;
                 flex-wrap: nowrap;

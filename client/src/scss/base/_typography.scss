@@ -1,10 +1,17 @@
+@use '../abstracts/variables' as *;
+
 body {
     background-color: $light-gray;
     color: $default-color;
     font: #{$default-size}/#{$line-height} $default-font;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
     color: $gray;
     font-family: $default-font;
     font-weight: 400;

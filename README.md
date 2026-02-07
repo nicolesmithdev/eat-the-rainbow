@@ -35,6 +35,11 @@ This is my first and on-going MERN (MongoDB, Express, React, Node) project. Even
 
 ## Changelog
 
+February 7, 2026
+
+-   Security: remove `node-sass` npm package in favor of `sass`
+-   Upgrade Sass syntax
+
 November 19, 2022
 
 -   Refactor form fields
