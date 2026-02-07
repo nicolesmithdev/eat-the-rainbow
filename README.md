@@ -9,8 +9,10 @@ The official Eat The Rainbow app can be found here: https://etr.nicolesmith.dev
 ### Local Setup
 
 -   `client` Directory
+    -   `nvm use 20`
     -   `npm install`
 -   Root Directory
+    -   `nvm use 20`
     -   `npm install`
     -   `npm run dev`
 -   `config` Directory
@@ -20,6 +22,7 @@ The official Eat The Rainbow app can be found here: https://etr.nicolesmith.dev
 ### Build
 
 -   `client` Directory
+    -   `nvm use 20`
     -   `npm run build`
     -   Upload `dist` folder into `client/dist` folder on server
 -   `root` Directory
